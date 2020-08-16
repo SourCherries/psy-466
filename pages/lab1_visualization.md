@@ -17,7 +17,7 @@ Our general goals for this first lab are to get your feet wet, so to speak. Weâ€
 
 1. Data for NYC film permits was obtained from the NYC open data website. The .csv file can be found here: <a href="https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/Film_Permits.csv" download>Film_Permits.csv</a>
 
-1. Data for watermelon farms in Abu Dhabi was obtained from ZZZZZ. The .csv file can be found here: [watermelon data](/psy-466/assets/area-of-cultivated-land-for-watermelon.csv)
+1. Data for watermelon farms in Abu Dhabi was obtained from ZZZZZ. The .csv file can be found here: [watermelon data](/psy-466/data/area-of-cultivated-land-for-watermelon.csv)
 
 2. Gapminder data from the gapminder project (copied from the R gapminder library) can be downloaded in .csv format here: <a href="https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/gapminder.csv" download>gapminder.csv</a>
 
