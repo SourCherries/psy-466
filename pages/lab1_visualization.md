@@ -5,7 +5,7 @@
 
 As we have found out from the textbook and lecture, when we measure things, we get lots of numbers. Too many. Sometimes so many your head explodes just thinking about them. **One of the most helpful things** you can do to begin to make sense of these numbers, is to look at them in graphical form.
 
-[first attempt at showing a figure](/psy-466/assets/watermelons_hist_explore.pdf)
+![first attempt at showing a figure](/psy-466/assets/watermelons_hist_explore.png)
 
 ## General Goals
 
