@@ -5,8 +5,19 @@
 
 As we have found out from the textbook and lecture, when we measure things, we get lots of numbers. Too many. Sometimes so many your head explodes just thinking about them. **One of the most helpful things** you can do to begin to make sense of these numbers, is to look at them in graphical form.
 
-![first attempt at showing a figure](/psy-466/assets/watermelons_hist_explore.png)
-
+![some words](/psy-466/assets/watermelons_hist_explore.png)
+![some words](/psy-466/assets/watermelons_hist_explore.png)
+![some words](/psy-466/assets/watermelons_hist_flex.png)
+![some words](/psy-466/assets/facebook_hist_explore_partner.png)
+![some words](/psy-466/assets/facebook_hist_flex_partner.png)
+![some words](/psy-466/assets/facebook_hist_flex_type_partner.png)
+![some words](/psy-466/assets/facebook_hist_explore_type_partner.png)
+![some words](/psy-466/assets/facebook_hist_explore_partner_type.png)
+![some words](/psy-466/assets/facebook_hist_explore_behaviors_only.png)
+![some words](/psy-466/assets/gapminder-hist-life.png)
+![some words](/psy-466/assets/gapminder-scatter-life-year.png)
+![some words](/psy-466/assets/gapminder-scatter-life-year-saudi.png)
+![some words](/psy-466/assets/gapminder-scatter-life-year-3-arab-states.png)
 ## General Goals
 
 Our general goals for this first lab are to get your feet wet, so to speak. We’ll do these things:
