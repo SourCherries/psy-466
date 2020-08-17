@@ -33,9 +33,10 @@ Our general goals for this first lab are to get your feet wet, so to speak. Weâ€
 You will be completing each lab by writing your code and notes in an R Markdown document.
 
 ### Get some data
-![Loading our farm data](/psy-466/assets/V1-open-file.gif)
+Please download the watermelon data and save it somewhere on your computer. ![Now load this data into jamovi.](/psy-466/assets/V1-open-file.gif)
 
 ### Farms in Abu Dhabi
+Jamovi has
 
 #### Which region has the most watermelon farms?
 ![Loading our farm data](/psy-466/assets/V2-counts-explore.gif)
@@ -53,29 +54,44 @@ You will be completing each lab by writing your code and notes in an R Markdown 
 
 #### Filtering out unknown companies
 ![Loading our farm data](/psy-466/assets/V5-filtering.gif)
-![some words](/psy-466/assets/facebook_hist_explore_partner.png)
+<!-- ![some words](/psy-466/assets/facebook_hist_explore_partner.png) -->
 ![some words](/psy-466/assets/facebook_hist_flex_partner.png)
 ##### Types by different companies
 ![Loading our farm data](/psy-466/assets/V6-type-by-partner.gif)
 ![some words](/psy-466/assets/facebook_hist_flex_type_partner.png)
+Let's refer to this graph as **type-by-company**.
 
 ##### Companies by different types
 ![Loading our farm data](/psy-466/assets/V7-partner-by-type.gif)
 <!-- ![some words](/psy-466/assets/facebook_hist_explore_type_partner.png) -->
 ![some words](/psy-466/assets/facebook_hist_explore_partner_type.png)
-##### Comparing companies by number of behavior identifiers
-![some words](/psy-466/assets/facebook_hist_explore_behaviors_only.png)
+Let's refer to this graph as **company-by-type**.
 
 ### Generalization Exercise
 (1 point - Pass/Fail)
 
+The last graph we made (**company-by-type**) compared companies for each of the different types of identifier. Suppose that the only identifier type we care about is *behaviors*. We want a simpler graph that looks like this:
+![these words do not show](/psy-466/assets/facebook_hist_explore_behaviors_only.png)
+Please recreate this graph.
+HINT: You can use **filtering**.
+
 ### Writing assignment
+
+1. Which company sells the most diverse range of identifier types?
+
+2. Which of these 2 graphs is most appropriate for answering the previous question? **type-by-company** or **company-by-type**?
+
+3. Which company provides the most information about different types of moms?
+
+4. Which of these 2 graphs is most appropriate for answering the previous question? **type-by-company** or **company-by-type**?
+
+The answers to each of these questions are worth .50 points each, for a total of 2 points
 
 **Rubric**
 
 General grading.
 
-- You will receive 0 points for missing answers (say, if you do not answer question c, then you will receive 0 out .25 points for that question)
+- You will receive 0 points for missing answers (say, if you do not answer question c, then you will receive 0 out .50 points for that question)
 - You must write in complete sentences. Point form sentences will be given 0 points.
 - Completely incorrect answers will receive 0 points. For example, if you incorrectly describe what the x and y-axes refer to, then you will receive 0 points for that question.
 - If your answer is generally correct but very difficult to understand and unclear you may receive half points for the question
