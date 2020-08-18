@@ -33,7 +33,9 @@ Our general goals for this first lab are to get your feet wet, so to speak. Weâ€
 You will be completing each lab by writing your code and notes in an R Markdown document.
 
 ### Get some data
-Please download the watermelon data and save it somewhere on your computer. ![Now load this data into jamovi.](/psy-466/assets/V1-open-file.gif)
+Please download the watermelon data and save it somewhere on your computer.
+Now load these data into **jamovi** like this:
+![Now load this data into jamovi.](/psy-466/assets/V1-open-file.gif)
 
 ### Farms in Abu Dhabi
 Jamovi has
