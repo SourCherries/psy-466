@@ -18,6 +18,8 @@ Our general goals for this first lab are to get your feet wet, so to speak. We�
 2. Talk a little bit about how the data is structured
 3. Make graphs of the data so we can look at it and make sense of it.
 
+Visualization is so important that we will continue to make graphs in the next lab.
+
 ### Sources of data for this lab
 
 1. Data for watermelon farms in Abu Dhabi was obtained from [Bayanat, the official data portal of the UAE government](https://bayanat.ae/en). The .csv file can be found here: [watermelon data](/psy-466/data/area-of-cultivated-land-for-watermelon.csv)
@@ -46,11 +48,13 @@ If you open up the above CSV file in a spreadsheet application like Excel, you m
 | 1 | violent | 200 |
 | 2 | neutral | 500 |
 
-Simple right?
-
-- missing values?
-- importance of proper variable names?
-- remember to do the same the specific data in this lab (in their appropriate sections of this lab)
+Notice that data in a CSV file are **tabular**:
+- each column represents a variable (described by its header)
+- each row represents the values of an object for each variable
+  - in the example above, each object is a person
+- the number of values in each row matches the number of variables (headers)
+  - in our example, 3 values for each person
+- variable names should be informative
 
 <!-- 3. Gapminder data from the gapminder project (copied from [this source](https://github.com/jennybc/gapminder)) can be downloaded in .csv format here: [gapminder data](/psy-466/data/gapminder.csv) -->
 
@@ -66,7 +70,13 @@ Now load these data into **jamovi** like this:
 ![Now load this data into jamovi.](/psy-466/assets/V1-open-file.gif)
 
 ### Farms in Abu Dhabi
-Jamovi has
+This data lists all of the watermelon farms in the Emirate of Abu Dhabi; each row is a farm.
+```
+Year,Emirate,Region,Locality_EN,Locality_AR,Area (donum)
+2016,Abu Dhabi,Abu Dhabi,Al Khatim,الختم,38.5
+2016,Abu Dhabi,Abu Dhabi,Al Rahba,الرحبة,62.6
+2016,Abu Dhabi,Al Ain,Abu-Kariah,ابو كريه,19.1
+```
 
 #### Which region has the most watermelon farms?
 ![Loading our farm data](/psy-466/assets/V2-counts-explore.gif)
