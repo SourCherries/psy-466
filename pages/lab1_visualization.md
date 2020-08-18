@@ -18,11 +18,39 @@ Our general goals for this first lab are to get your feet wet, so to speak. Weâ€
 2. Talk a little bit about how the data is structured
 3. Make graphs of the data so we can look at it and make sense of it.
 
-### Important info
+### Sources of data for this lab
 
 1. Data for watermelon farms in Abu Dhabi was obtained from [Bayanat, the official data portal of the UAE government](https://bayanat.ae/en). The .csv file can be found here: [watermelon data](/psy-466/data/area-of-cultivated-land-for-watermelon.csv)
 
 2. Data for the ad groups (or identifiers) that Facebook sells to advertisers was obtained from [ProPublica's Data Store](https://www.propublica.org/datastore/dataset/facebook-ad-categories). The .csv file can be found here: [facebook data](/psy-466/data/fb-ad-groups.csv)
+
+### CSV file format
+
+Data in our labs will be shared as CSV files. CSV stands for comma-separated values, and these types of files can be easily identified by the .csv file extension in their file name. Why CSV? It is one of the simplest file formats and most popular file formats for data. CSV files can be read by every computer application that involves data analysis: SPSS, Stata, Excel, Google Sheets, you name it. We'll be doing all of our statistical analyses using the jamovi application and jamovi can also read .csv files. CSV files also have the advantage that you can also just look at them in a simple word processor.
+
+So what's in a CSV file?
+Here's an example:
+
+```
+participant, stimulus, reaction_time
+1, violent, 200
+2, neutral, 500
+```
+
+The first thing is usually a row of headers, which are short descriptions of different variables. Each header is separated by a comma. In this example, there are 3 variables: participant, stimulus and reaction time. Each subsequent line is a row of values separated by commas. Looking at this, we can guess that participant 1 reacted very quickly to a violent stimulus, maybe the image of bloody knife. The next line suggests that participant 2 reacted more slowly to a neutral stimulus, perhaps the image of a computer. However, I am just guessing. Whoever made the CSV file should provide additional information to explain how these data were collected and what the different variables mean. This additional information is usually available in another file, like a website or PDF document for example. For our labs, I will describe each data file as much as is necessary for you to understand the required analyses. I will also provide links to additional information for those who are curious to learn more!
+
+If you open up the above CSV file in a spreadsheet application like Excel, you might get something like this:
+
+| participant | stimulus | reaction_time |
+| ---: | ---: | ---: |
+| 1 | violent | 200 |
+| 2 | neutral | 500 |
+
+Simple right?
+
+- missing values?
+- importance of proper variable names?
+- remember to do the same the specific data in this lab (in their appropriate sections of this lab)
 
 <!-- 3. Gapminder data from the gapminder project (copied from [this source](https://github.com/jennybc/gapminder)) can be downloaded in .csv format here: [gapminder data](/psy-466/data/gapminder.csv) -->
 
