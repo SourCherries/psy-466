@@ -8,13 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Psychology 466
+title : PSY-466 Lab
+description: Hands on analysis
 author :
   name : Carl M. Gaspar
   email : carl.gaspar@zu.ac.ae
   github : SourCherries
   twitter : nil
   feedburner : nil
+show_downloads: "true"
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://SourCherries.github.io/PSY-466
