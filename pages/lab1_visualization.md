@@ -121,7 +121,7 @@ Hopefully, you've installed the **Flexplot** module already. Once you have, then
 ![Loading our farm data](/psy-466/assets/V3-counts-flex-strange-employment.gif)
 
 What's this NA nonsense?
-[NA as category](/psy-466/assets/employment_hist_flex_strange.svg)
+![NA as category](/psy-466/assets/employment_hist_flex_strange.svg)
 
 Graphs are really useful for identifying and illustrating patterns in your data. However, they are also useful for seeing if there is anything funny with your data! That's what happened here! Clearly there is something funny going on. We already knew about this funny business earlier. But with more complicated data sets sometimes visualizing your data is the only way to spot funny business.
 
