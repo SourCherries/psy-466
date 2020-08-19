@@ -175,6 +175,22 @@ In other words, no more bar for NA!
 <!-- **************************** -->
 
 ### The information about you that Facebook buys from marketing companies
+According to [ProPublica](https://www.propublica.org/datastore/dataset/facebook-ad-categories), our [facebook data](/psy-466/assets/fb-ad-groups.csv):
+> ... contains data scraped from the company's ad buying portal. This table shows what audiences Facebook allows ad buyers to target.
+
+What does this mean?
+
+Facebook was only just beginning to become popular when I was in graduate school. Now it is quite normal for people to have a facebook account. Apparently, facebook is [the most popular social media platform in the UAE](https://www.arabianbusiness.com/technology/448399-facebook-is-uaes-most-popular-social-media-platform-report). So I'm going to just assume you know what facebook is.
+
+And I imagine that you have at least a fuzzy idea of how facebook makes money by selling information about you to advertisers.
+
+But you may not be aware that facebook also buys information about you from special companies called [data brokers](https://www.youtube.com/watch?v=K1m_cigA988).
+
+In other words, facebook has access to information about you that is collected outside of what is in your facebook account.
+
+Altogether, the info facebook has about you can be surprisingly detailed. Let's take a look.
+
+CURRENT WORK HERE
 
 #### Filtering out unknown companies
 ![Loading our farm data](/psy-466/assets/V5-filtering.gif)
@@ -187,8 +203,10 @@ Let's refer to this graph as **type-by-company**.
 
 ##### Companies by different types
 ![Loading our farm data](/psy-466/assets/V7-partner-by-type.gif)
-<!-- ![some words](/psy-466/assets/facebook_hist_explore_type_partner.png) -->
-![some words](/psy-466/assets/facebook_hist_explore_partner_type.png)
+
+
+This graph is very large so [click here](/psy-466/assets/facebook_hist_explore_partner_type.png) to view this figure in its own webpage.
+
 Let's refer to this graph as **company-by-type**.
 
 ### Generalization Exercise
