@@ -83,35 +83,72 @@ We could simply look through the raw data. But counting can take a lot of time, 
 
 #### Now many people in this sample?
 
-Analyses >> Exploration >> Descriptives
+***Analyses >> Exploration >> Descriptives***
 
-In the left panel, put gender under "variables".
-In the right panel, you can now see that N = 80.
-We have 80 people in this data.
-You will get the same by putting employment under "variables".
+In the left panel, put gender under "variables". Using employment instead also works the same.
+In the right panel, you can now see that N = 400.
+In other words, we have 400 people in this data. However, we also have 91 people that appear to be *Missing*. What's going on here? Let's get back to this later.
 
 Notice that there are some other things listed in our table that do not have values, like the mean. Only N (number of objects) and Missing (number of missing values) makes sense for our Nominal variables. So let's get rid of these in our table. Everything that appears in our table is selected in the left panel under **statistics**. We can simply uncheck items that we do not want included, like mean.
 
 ##### Export APA table into Word
 Are you doing your senior project now, or will be doing it in the near future? Chances are you'll be including a table in your manuscript that is formatted according to APA guidelines. Well, we can just copy the table from jamovi into a Word document. Do this now! Notice that the copy of your table is not an image, but an actual table that you can edit!
 
+**Copy table to Word**
+
 #### What are the different employment statuses?
 
-Data >> Setup
+**Data >> Setup**
 
 Now click on the column header for employment (bottom panel) or simply shift left or right toward employment in the top panel. Now we can see all of the different employment statuses under levels in the top panel. What are they?
 
-#### Which region has the most watermelon farms?
-![Loading our farm data](/psy-466/assets/V2-counts-explore.gif)
-![some words](/psy-466/assets/watermelons_hist_explore.png)
+Now is a good time to discuss employment status. You might be wondering about the difference between unemployed and "not looking". Unemployed people are currently out of work but trying to find work, whereas people who are not looking are simply not looking for work. Perhaps your wife is very rich and you spend all of your time playing video games?
+
+#### How are people are in the different employment categories?
+To answer this question, let's make our first graph. Just follow the procedure shown in this animation:
+![how to get a simple frequency plot](/psy-466/assets/V2-counts-explore-employment.gif)
+
+I will be making animations like this for some of our labs, especially the first few labs when you are still learning how to use **jamovi**. As we progress, you will be able to figure things out on your own.
+
+Using a similar procedure as the one described for tables, you can copy this graph. Then you can paste it into Word for example. However, it might be good to export the graph as a separate file. This is what your graph should look like:
+![simple frequency plot](/psy-466/assets/employment_hist_explore.svg)
 
 
-#### An alternate way to answer this question
-![Loading our farm data](/psy-466/assets/V3-counts-flex-strange.gif)
+#### A similar graph using a different module
+I chose **jamovi** instead of a similar application called **JASP** because it offers more options for visualization. Let's explore some options in this lab.
+
+Hopefully, you've installed the **Flexplot** module already. Once you have, then just follow the procedure shown in this animation to make our alternate graph:
+![Loading our farm data](/psy-466/assets/V3-counts-flex-strange-employment.gif)
+
+What's this NA nonsense?
+[NA as category](/psy-466/assets/employment_hist_flex_strange.svg)
+
+Graphs are really useful for identifying and illustrating patterns in your data. However, they are also useful for seeing if there is anything funny with your data! That's what happened here! Clearly there is something funny going on. We already knew about this funny business earlier. But with more complicated data sets sometimes visualizing your data is the only way to spot funny business.
+
+So what's actually going on? Open up employment.csv in a simple word processor and scroll down to the end of the file. There you will see that there are 91 rows of commas without values, like this:
+```
+,,
+,,
+,,
+,,
+,,
+```
+
+We can also see this in the spreadsheet part of **jamovi** but you have to really know what you're looking for:
+[](/psy-466/assets/missing-rows-jamovi.png)
+Notice that the row numbers are gray from row 492 onward. They should be gray from row 401 onward. That means **jamovi** thinks there are 91 people with completely missing data. Maybe there are. We would have to ask the person who collected these data!
+
+Anyway, we have absolutely no data for these rows so let's exclude them form all of our analyses. How do we do that?
+
+CURRENT WORK HERE
 
 #### Filtering out empty rows
 ![Loading our farm data](/psy-466/assets/V4-filtering.gif)
 ![some words](/psy-466/assets/watermelons_hist_flex.png)
+
+<!-- **************************** -->
+<!-- **************************** -->
+<!-- **************************** -->
 
 ### The information about you that Facebook buys from marketing companies
 
