@@ -135,16 +135,27 @@ So what's actually going on? Open up employment.csv in a simple word processor a
 ```
 
 We can also see this in the spreadsheet part of **jamovi** but you have to really know what you're looking for:
-[](/psy-466/assets/missing-rows-jamovi.png)
+![](/psy-466/assets/missing-rows-jamovi.png)
 Notice that the row numbers are gray from row 492 onward. They should be gray from row 401 onward. That means **jamovi** thinks there are 91 people with completely missing data. Maybe there are. We would have to ask the person who collected these data!
 
 Anyway, we have absolutely no data for these rows so let's exclude them form all of our analyses. How do we do that?
 
-CURRENT WORK HERE
-
 #### Filtering out empty rows
-![Loading our farm data](/psy-466/assets/V4-filtering.gif)
-![some words](/psy-466/assets/watermelons_hist_flex.png)
+Follow the procedure in this animation:
+![Loading our farm data](/psy-466/assets/V4-filtering-employment.gif)
+
+In words, clicked the Filters button under Data and typed the following as a ROW FILTER:
+```
+ROW() < 401
+```
+Then I hit the ENTER button. That's it!
+
+If you go the the spreadsheet part of **jamovi** you can see that there are now green check marks for all the rows included in analyses, and red x's for all the rows excluded from analyses:
+![](/psy-466/assets/filtering-seen-in-spreadsheet.png)
+
+Finally, our graph has now been updated to reflect the exclusion of empty rows:
+![some words](/psy-466/assets/employment_hist_flex.svg)
+In other words, no more bar for NA!
 
 <!-- **************************** -->
 <!-- **************************** -->
