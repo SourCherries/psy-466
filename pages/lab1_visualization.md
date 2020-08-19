@@ -180,15 +180,43 @@ According to [ProPublica](https://www.propublica.org/datastore/dataset/facebook-
 
 What does this mean?
 
+Let's start with the information.
+
 Facebook was only just beginning to become popular when I was in graduate school. Now it is quite normal for people to have a facebook account. Apparently, facebook is [the most popular social media platform in the UAE](https://www.arabianbusiness.com/technology/448399-facebook-is-uaes-most-popular-social-media-platform-report). So I'm going to just assume you know what facebook is.
 
-And I imagine that you have at least a fuzzy idea of how facebook makes money by selling information about you to advertisers.
+And I imagine that you have at least a fuzzy idea that facebook makes money by selling information about you to advertisers.
 
+But did you know how detailed this information can be?
+
+#### The details
+Here's a few rows from the facebook data we'll be looking at, with the headers at the top:
+```
+id,name,description,audience_size,type,source,partner,path
+6003146077426,The Fast and the Furious,,64486580,interests,,,Interests/Additional interests/The Fast and the Furious
+6003053857372,Away from family,People who are away from family,236154921,life_events,,,Demographics/Life events/Away from family
+6019205389132,Independent Investors,"Households with people likely to have investible assets of $100,000 or more and validate investment decisions with a professional advisor",35143200,behaviors,"Modeled, provided by Acxiom",Acxiom,Behaviours/Financial/Investments/Independent Investors
+6006521008625,Trendy moms,People whose activities strongly suggest they are trendy moms.,4784200,moms,"U.S consumer data on where consumers shop, how they shop, what products and brands they purchase, the publications they read, and their demographic and psychographic attributes.",DLX,Demographics/Parents/Mums/Trendy moms
+```
+Each row is a specific category of people that facebook can identify for advertisors. Imagine a company that sells protein powder for people who want to gain more muscle. This company thinks that people who are interested in the Fast & Furious movies also want to have large muscles. So they buy that information from facebook. Now this company knows which facebook users have an interest in the Fast & Furious movies and can target advertisements to them; maybe even offer them special deals or choose a model that looks like Vin Diesel.
+
+Interest in "The Fast and the Furious" is one of the **names** listed in this data. There are thousands of other categories (**names**) listed under the **type** interests, like "Arsenal F.C." and "Kim Kardashian".
+
+
+Yes, facebook can tell if you are away from your family and will sell this info about you to advertisers.
+
+| name | type | partner |
+| ---: | ---: | ---: |
+| The Fast and the Furious | interests | |
+| Away from family | life_events | |
+| Independent Investors | behaviors | Acxiom |
+| Trendy moms | mom | DLX |
+
+#### Information from data brokers
 But you may not be aware that facebook also buys information about you from special companies called [data brokers](https://www.youtube.com/watch?v=K1m_cigA988).
 
-In other words, facebook has access to information about you that is collected outside of what is in your facebook account.
+In other words, facebook has access to information about you that is collected outside of what is in your facebook account. Clicking third-party pages and ads in facebook counts; that info must be bought by facebook from the advertisers. But there are other sources, like when you sign up for a loyalty card at a coffee shop for example. Or public records of car ownership (in some countries).
 
-Altogether, the info facebook has about you can be surprisingly detailed. Let's take a look.
+Altogether, the info facebook has about you can be surprisingly detailed. ProPublica wanted to know about the information that facebook buys from data brokers, so they simply went to the website where facebook sells information about you to advertisers.
 
 CURRENT WORK HERE
 
