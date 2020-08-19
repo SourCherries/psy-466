@@ -78,7 +78,7 @@ This fake data lists employment status and gender for a sample of people from [W
 2,"male","full-time"
 3,"male","part-time"
 ```
-How many people are in this sample? And what are the different employment statuses?
+How many people are in this sample? And what are the different employment statuses? Try this on your own then [click here for the answer.](/psy-466/assets/answers1.csv)
 
 We could simply look through the raw data. But counting can take a lot of time, and we would probably make mistakes. So we want the computer to do this stuff for us.
 
@@ -103,9 +103,9 @@ Are you doing your senior project now, or will be doing it in the near future? C
 
 Now click on the column header for employment (bottom panel) or simply shift left or right toward employment in the top panel. Now we can see all of the different employment statuses under levels in the top panel. What are they?
 
-Now is a good time to discuss employment status. You might be wondering about the difference between unemployed and "not looking". Unemployed people are currently out of work but trying to find work, whereas people who are not looking are simply not looking for work. Perhaps your wife is very rich and you spend all of your time playing video games?
+Now is a good time to discuss employment status. You might be wondering about the difference between unemployed and "not looking". Unemployed people are currently out of work but trying to find work, whereas people who are not looking are simply not looking for work. Perhaps your wife is very rich and you want to spend all of your time playing video games? If that is you then technically you are not unemployed.
 
-#### How are people are in the different employment categories?
+#### How many people are in the different employment categories?
 To answer this question, let's make our first graph. Just follow the procedure shown in this animation:
 
 ![how to get a simple frequency plot](/psy-466/assets/V2-counts-explore-employment.gif)
