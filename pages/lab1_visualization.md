@@ -67,6 +67,7 @@ You will be completing each lab by writing your code and notes in an R Markdown 
 ### Get some data
 Please download the employment and facebook data and save them somewhere on your computer. Preferably, these data will be in the same folder that you will save work for this lab.
 Now load the employment data into **jamovi** like this:
+
 ![Now load this data into jamovi.](/psy-466/assets/V1-open-file.gif)
 
 ### Employment data
@@ -106,11 +107,13 @@ Now is a good time to discuss employment status. You might be wondering about th
 
 #### How are people are in the different employment categories?
 To answer this question, let's make our first graph. Just follow the procedure shown in this animation:
+
 ![how to get a simple frequency plot](/psy-466/assets/V2-counts-explore-employment.gif)
 
 I will be making animations like this for some of our labs, especially the first few labs when you are still learning how to use **jamovi**. As we progress, you will be able to figure things out on your own.
 
 Using a similar procedure as the one described for tables, you can copy this graph. Then you can paste it into Word for example. However, it might be good to export the graph as a separate file. This is what your graph should look like:
+
 ![simple frequency plot](/psy-466/assets/employment_hist_explore.svg)
 
 
@@ -118,10 +121,14 @@ Using a similar procedure as the one described for tables, you can copy this gra
 I chose **jamovi** instead of a similar application called **JASP** because it offers more options for visualization. Let's explore some options in this lab.
 
 Hopefully, you've installed the **Flexplot** module already. Once you have, then just follow the procedure shown in this animation to make our alternate graph:
+
 ![Loading our farm data](/psy-466/assets/V3-counts-flex-strange-employment.gif)
 
-What's this NA nonsense?
+Here's the resulting graph:
+
 ![NA as category](/psy-466/assets/employment_hist_flex_strange.svg)
+
+But what is this NA nonsense?
 
 Graphs are really useful for identifying and illustrating patterns in your data. However, they are also useful for seeing if there is anything funny with your data! That's what happened here! Clearly there is something funny going on. We already knew about this funny business earlier. But with more complicated data sets sometimes visualizing your data is the only way to spot funny business.
 
@@ -135,13 +142,16 @@ So what's actually going on? Open up employment.csv in a simple word processor a
 ```
 
 We can also see this in the spreadsheet part of **jamovi** but you have to really know what you're looking for:
+
 ![](/psy-466/assets/missing-rows-jamovi.png)
+
 Notice that the row numbers are gray from row 492 onward. They should be gray from row 401 onward. That means **jamovi** thinks there are 91 people with completely missing data. Maybe there are. We would have to ask the person who collected these data!
 
 Anyway, we have absolutely no data for these rows so let's exclude them form all of our analyses. How do we do that?
 
 #### Filtering out empty rows
 Follow the procedure in this animation:
+
 ![Loading our farm data](/psy-466/assets/V4-filtering-employment.gif)
 
 In words, clicked the Filters button under Data and typed the following as a ROW FILTER:
@@ -151,10 +161,13 @@ ROW() < 401
 Then I hit the ENTER button. That's it!
 
 If you go the the spreadsheet part of **jamovi** you can see that there are now green check marks for all the rows included in analyses, and red x's for all the rows excluded from analyses:
+
 ![](/psy-466/assets/filtering-seen-in-spreadsheet.png)
 
 Finally, our graph has now been updated to reflect the exclusion of empty rows:
+
 ![some words](/psy-466/assets/employment_hist_flex.svg)
+
 In other words, no more bar for NA!
 
 <!-- **************************** -->
