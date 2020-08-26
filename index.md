@@ -1,67 +1,60 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Home Page
+tagline: Statistics and Basic Design in Research
+description: PSY-466 at Zayed University
 ---
+This course has a heavy focus on hands-on activities, done on most weeks. All of this will be done using free software called jamovi (like SPSS), which has been used for published and peer-reviewed research.
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+**When is my next lab and how can I start?**
+Find the current week on Weekly Outline and check if there is a lab listed under Activity. If the lab is available, there should be a link. Click on that link to begin. Labs are generally on the 2nd day of the week, and we will have a normal class over Zoom where I make myself available to anyone who might have questions. If the lab is available before class time, feel free to begin the lab on your own!
 
-For me, the painful aspects of making a website are
+## Office Hours
+1:00 to 2:30 pm Sunday, Monday, Wednesday and Thursday; 10:00 to 11:00 am Thursday
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+## Instructor Office Location
+FF1-1-013 and online
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+# Weekly Outline
+Link to lab under Activity.
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+| week | from | to | topic | activity |
+| :--- | :--- | :--- | :--- | :--- |
+|1| 8/23 | 8/27 | Review syllabus. Introduction to the course. | Lecture/slides. Jamovi install and general tutorial. Preview of lab website. Students will be directed to the Student Code of Academic Conduct Procedures (ACA-ADM-08) and we will discuss the importance academic integrity. |
+|2| 8/30 | 9/03 | Science and statistics. Review of basic concepts like variable types. Research designs. | Lecture/slides. |
+|3| 9/06 | 9/10 | Dataset detective work. Mini Research Paper. | Lectures/slides.  Detailed discussion of Mini Research Paper. Lab 1: Data set detective work. Students explore raw data and apply their knowledge of research methods to infer the design used in the original study, and the variable types included. We will revisit mystery data sets periodically and students can judge whether a newly learnt analysis or measurement can be meaningfully applied. A shared Google document will track our understanding of the various data sets. By the following week, students will *adopt* a dataset which will form the basis of their Mini Research Paper. |
+|4| 9/13 | 9/17 | Data visualization. | Lecture/slides. [Lab 2: Graphing](pages/lab1_visualization.html). By the end of this week, students must have *adopted* a mystery dataset for themselves; a different one for each student. Once *adopted*, students can now begin work on their Mini Research Paper. As we progress through the course, students will be able to do more and more. Labs 1 and 2 due 09/19|
+|5| 9/20 | 9/24 | Central tendency. | Lecture/slides. Lab 3: More graphing (website TBA) |
+|6| 9/27 | 10/01 | Variance. | Lecture/slides. Lab 4: Descriptives (website TBA) |
+|7| 10/04 | 10/08 | Correlation. | Lecture/slides. Lab 5: Correlation (website TBA)|
+|8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue lab 5: Correlation (website TBA) |
+|9| 10/18 | 10/22 | Statistical inference. | Lecture/slides. Lab 6: Inference (website TBA). Labs 3 to 6 due 10/24 |
+|10| 10/25 | 10/29 | Science writing and APA format. | Lectures/slides. Unmarked Lab: Students identify critical components in published psychology papers, with a focus on clarity of data visualization. |
+|11| 11/01 | 11/05 | One-sample t-tests. | Lecture/slides. Lab 7: t-tests 1 (website TBA) |
+|12| 11/08 | 11/12 | Paired-sample t-tests, and independent t-tests. | Lecture/slides. Lab 8: t-tests 2 (website TBA) |
+|13| 11/15 | 11/19 | One-way ANOVA. | Lecture/slides. Lab 9: One-way ANOVA (website TBA) |
+|14| 11/22 | 11/26 | Repeated measures ANOVA. | Lecture/slides. Lab 10: Repeated measures ANOVA (website TBA). Labs 7 to 10 due 11/28.|
+|15| 11/29 | 12/03 | Additional guidance with Mini Research Paper. | Individual discussions about Mini Research Paper. |
+|16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Mini Research Paper due 12/10. |
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+# Textbooks and Learning Materials
+- Crump, M. J. C., Navarro, D., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52, https://crumplab.github.io/statistics/
+- Writing guide authored by a good writer: https://psych.nyu.edu/pelli/style.html
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+# Assessment Methods
+| category | assessment type | percentage | assessment description | due date |
+| :--- | :--- | :--- | :--- | :--- |
+| assignment | Lab assignments: Foundations. | 10 | Labs 1 to 2 | 09/19/2020 |
+| assignment | Lab assignments: Exploratory. | 20 | Labs 3 to 6 | 10/24/2020 |
+| research paper |Lab reports: Experimental.| 20 | Labs 7 to 10, including brief reports in APA format. | 11/28/2020 |
+| research paper | Mini research paper | 25 | Report an analysis of your *adopted* dataset. Methods will be guessed but there are good guesses and bad guesses. Introduction will be shortened but will definitely describe possible results and/or hypotheses. All in APA format with appropriate figures and tables. | 12/10/2020 |
+| final exam | final exam | 25 | The final exam will cover all material taught throughout the term. | TBA |
 
 - [Laboratory 1](pages/lab1_visualization.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+<!-- The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
 
 Also see my [tutorials](https://kbroman.org/pages/tutorials) on
 [git/github](https://kbroman.org/github_tutorial),
@@ -69,4 +62,4 @@ Also see my [tutorials](https://kbroman.org/pages/tutorials) on
 [knitr](https://kbroman.org/knitr_knutshell),
 [R packages](https://kbroman.org/pkg_primer),
 [data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+and [reproducible research](https://kbroman.org/steps2rr). -->
