@@ -27,6 +27,7 @@ The labs are very structured and marked in a consistent fashion:
 
 # Weekly Outline
 Link to lab under Activity.
+
 If **1.7** is listed as reading that needs to be done, then you should read all of **1.7**. For example, there might be **1.7.2** and **1.7.1.5**. You should read those and anything else within **1.7**.
 
 | week | from | to | topic | activity | do before the next week |
