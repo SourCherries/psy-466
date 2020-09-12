@@ -10,8 +10,6 @@ When we measure things, we get lots of numbers. Too many. Sometimes so many your
 ![some words](/psy-466/assets/gapminder-scatter-life-year-saudi.png)
 ![some words](/psy-466/assets/gapminder-scatter-life-year-3-arab-states.png) -->
 
-## General Goals
-
 Our general goals for this first lab are to get your feet wet, so to speak. Weâ€™ll do these things:
 
 1. Load in some data to [jamovi](https://www.jamovi.org/)
@@ -19,6 +17,8 @@ Our general goals for this first lab are to get your feet wet, so to speak. Weâ€
 3. Make graphs of the data so we can look at it and make sense of it.
 
 Visualization is so important that we will continue to make graphs in the next lab.
+
+## Set up
 
 ### Sources of data for this lab
 
@@ -60,7 +60,7 @@ Jamovi has its own spreadsheet, as well as all the other stuff associated with s
 
 <!-- 3. Gapminder data from the gapminder project (copied from [this source](https://github.com/jennybc/gapminder)) can be downloaded in .csv format here: [gapminder data](/psy-466/data/gapminder.csv) -->
 
-## jamovi
+## Tutorial on jamovi, data cleaning and visualization
 
 ### ~~Download the lab templates~~
 
@@ -85,12 +85,20 @@ How many people are in this sample? And what are the different employment status
 We could simply look through the raw data. But counting can take a lot of time, and we would probably make mistakes. So we want the computer to do this stuff for us.
 
 ### Main options in jamovi
-![Some text associated with image](/psy-466/assets/jamovi-main-bar.png).
+![](/psy-466/assets/jamovi-main-bar.png)
+In jamovi, you will be switching between 2 modes: **Data** and **Analysis**, corresponding to the 2 tabs in the image above. **Data** is the spreadsheet where you can see the raw data and do other things that you can do in a spreadsheet. **Analysis** is where you calculate statistics, make tables and make figures. The other mode, which you access by clicking on the 3 horizontal lines to the left of **Data** lets you open up new data and close existing data.
+
+I might write something like:
+```
+Analysis > Exploration
+```
+This is an instruction to click on **Exploration** in **Analysis** mode.
 
 #### Now many people in this sample?
 
-***Analyses >> Exploration >> Descriptives***
-
+```
+Analyses > Exploration > Descriptives
+```
 In the left panel, put gender under "variables". Using employment instead also works the same.
 In the right panel, you can now see that N = 400.
 In other words, we have 400 people in this data. However, we also have 91 people that appear to be *Missing*. What's going on here? Let's get back to this later.
@@ -102,11 +110,13 @@ Are you doing your senior project now, or will be doing it in the near future? C
 
 #### What are the different employment statuses?
 
-**Data >> Setup**
+```
+Data > Setup
+```
 
 Now click on the column header for employment (bottom panel) or simply shift left or right toward employment in the top panel. Now we can see all of the different employment statuses under levels in the top panel. What are they?
 
-Now is a good time to discuss employment status. You might be wondering about the difference between unemployed and "not looking". Unemployed people are currently out of work but trying to find work, whereas people who are not looking are simply not looking for work. Perhaps your wife is very rich and you want to spend all of your time playing video games? If that is you then technically you are not unemployed.
+Now is a good time to discuss employment status. You might be wondering about the difference between unemployed and "not looking". Unemployed people are currently out of work but trying to find work, whereas people who are not looking are simply not looking for work. Perhaps your wife is very rich and you can afford to spend all of your time playing video games? If that is you then technically you are not unemployed.
 
 #### How many people are in the different employment categories?
 To answer this question, let's make our first graph. Just follow the procedure shown in this animation:
@@ -133,7 +143,7 @@ Here's the resulting graph:
 
 But what is this NA nonsense?
 
-Graphs are really useful for identifying and illustrating patterns in your data. However, they are also useful for seeing if there is anything funny with your data! That's what happened here! Clearly there is something funny going on. We already knew about this funny business earlier. But with more complicated data sets sometimes visualizing your data is the only way to spot funny business.
+**Graphs are really useful for identifying and illustrating patterns in your data. However, they are also useful for seeing if there is anything funny with your data!** That's what happened here! Clearly there is something funny going on. We already knew about this funny business earlier. But with more complicated data sets sometimes visualizing your data is the only way to spot funny business.
 
 So what's actually going on? Open up employment.csv in a simple word processor and scroll down to the end of the file. There you will see that there are 91 rows of commas without values, like this:
 ```
@@ -221,8 +231,6 @@ In other words, facebook has access to information about you that is collected o
 
 Altogether, the info facebook has about you can be surprisingly detailed. ProPublica wanted to know about the information that facebook buys from data brokers, so they simply went to the website where facebook sells information about you to advertisers.
 
-CURRENT WORK HERE
-
 #### Filtering out unknown companies
 ![Loading our farm data](/psy-466/assets/V5-filtering.gif)
 <!-- ![some words](/psy-466/assets/facebook_hist_explore_partner.png) -->
@@ -240,31 +248,41 @@ This graph is very large so [click here](/psy-466/assets/facebook_hist_explore_p
 
 Let's refer to this graph as **company-by-type**.
 
-### Generalization Exercise
-(1 point - Pass/Fail)
-
+## Marked exercises (5 points total)
+5 questions, 1 point each.
+Question 1 requires you to upload a jamovi file.
+Write your answers for questions 2 to 5 in a single text document (like Word) and upload that.
+### Question 1 (1 point)
 The last graph we made (**company-by-type**) compared companies for each of the different types of identifier. Suppose that the only identifier type we care about is *behaviors*. We want a simpler graph that looks like this:
 ![these words do not show](/psy-466/assets/facebook_hist_explore_behaviors_only.png)
+
 Please recreate this graph.
+
 HINT: You can use **filtering**.
 
-### Writing assignment
+Once you have made this graph, save your work as a jamovi file:
+![image](/psy-466/assets/jamovi-saving-your-jamovi-file.png)
 
-1. Which company sells the most diverse range of identifier types?
+Now upload your jamovi file to:
+```
+Instructor's Assessments > Lab 2
+```
 
-2. Which of these 2 graphs is most appropriate for answering the previous question? **type-by-company** or **company-by-type**?
+### Question 2 (1 point)
+Which company sells the most diverse range of identifier types?
 
-3. Which company provides the most information about different types of moms?
+### Question 3 (1 point)
+Which of these 2 graphs is most appropriate for answering the previous question? **type-by-company** or **company-by-type**?
 
-4. Which of these 2 graphs is most appropriate for answering the previous question? **type-by-company** or **company-by-type**?
+### Question 4 (1 point)
+Which company provides the most information about different types of moms?
 
-The answers to each of these questions are worth .50 points each, for a total of 2 points
+### Question 5 (1 point)
+Which of these 2 graphs is most appropriate for answering the previous question? **type-by-company** or **company-by-type**?
 
 **Rubric**
 
 General grading.
 
-- You will receive 0 points for missing answers (say, if you do not answer question c, then you will receive 0 out .50 points for that question)
-- You must write in complete sentences. Point form sentences will be given 0 points.
-- Completely incorrect answers will receive 0 points. For example, if you incorrectly describe what the x and y-axes refer to, then you will receive 0 points for that question.
-- If your answer is generally correct but very difficult to understand and unclear you may receive half points for the question
+- You will receive 0 points for missing answers (say, if you do not answer question 2, then you will receive 0 for that question)
+- Question 1 requires you to upload a jamovi file that shows the requested figure. If you upload an image instead you will receive 0.
