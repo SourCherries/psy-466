@@ -252,6 +252,10 @@ Let's refer to this graph as **company-by-type**.
 5 questions, 1 point each.
 Question 1 requires you to upload a jamovi file.
 Write your answers for questions 2 to 5 in a single text document (like Word) and upload that.
+Now upload your jamovi file and text (Word) document to:
+```
+Instructor's Assessments > Lab 2
+```
 ### Question 1 (1 point)
 The last graph we made (**company-by-type**) compared companies for each of the different types of identifier. Suppose that the only identifier type we care about is *behaviors*. We want a simpler graph that looks like this:
 ![these words do not show](/psy-466/assets/facebook_hist_explore_behaviors_only.png)
@@ -262,11 +266,6 @@ HINT: You can use **filtering**.
 
 Once you have made this graph, save your work as a jamovi file:
 ![image](/psy-466/assets/jamovi-saving-your-jamovi-file.png)
-
-Now upload your jamovi file to:
-```
-Instructor's Assessments > Lab 2
-```
 
 ### Question 2 (1 point)
 Which company sells the most diverse range of identifier types?
