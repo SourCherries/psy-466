@@ -3,7 +3,7 @@
 >The commonality between science and art is in trying to see profoundly - to develop strategies of seeing and showing.
 —Edward Tufte
 
-As we have found out from the textbook and lecture, when we measure things, we get lots of numbers. Too many. Sometimes so many your head explodes just thinking about them. **One of the most helpful things** you can do to begin to make sense of these numbers, is to look at them in graphical form.
+When we measure things, we get lots of numbers. Too many. Sometimes so many your head explodes just thinking about them. **One of the most helpful things** you can do to begin to make sense of these numbers, is to look at them in graphical form.
 
 <!-- ![some words](/psy-466/assets/gapminder-hist-life.png)
 ![some words](/psy-466/assets/gapminder-scatter-life-year.png)
@@ -28,7 +28,7 @@ Visualization is so important that we will continue to make graphs in the next l
 
 ### CSV file format
 
-Data in our labs will be shared as CSV files. CSV stands for comma-separated values, and these types of files can be easily identified by the .csv file extension in their file name. Why CSV? It is one of the simplest file formats and most popular file formats for data. CSV files can be read by every computer application that involves data analysis: SPSS, Stata, Excel, Google Sheets, you name it. We'll be doing all of our statistical analyses using the jamovi application and jamovi can also read .csv files. CSV files also have the advantage that you can also just look at them in a simple word processor.
+Data in our labs will be shared as **CSV files**. CSV stands for comma-separated values, and these types of files can be easily identified by the .csv file extension in their file name. Why CSV? It is one of the simplest file formats and most popular file formats for data. CSV files can be read by every computer application that involves data analysis: SPSS, Stata, Excel, Google Sheets, you name it. We'll be doing all of our statistical analyses using the jamovi application and jamovi can also read .csv files. CSV files also have the advantage that you can also just look at them in a simple word processor.
 
 So what's in a CSV file?
 Here's an example:
@@ -39,7 +39,7 @@ participant, stimulus, reaction_time
 2, neutral, 500
 ```
 
-The first thing is usually a row of headers, which are short descriptions of different variables. Each header is separated by a comma. In this example, there are 3 variables: participant, stimulus and reaction time. Each subsequent line is a row of values separated by commas. Looking at this, we can guess that participant 1 reacted very quickly to a violent stimulus, maybe the image of bloody knife. The next line suggests that participant 2 reacted more slowly to a neutral stimulus, perhaps the image of a computer. However, I am just guessing. Whoever made the CSV file should provide additional information to explain how these data were collected and what the different variables mean. This additional information is usually available in another file, like a website or PDF document for example. For our labs, I will describe each data file as much as is necessary for you to understand the required analyses. I will also provide links to additional information for those who are curious to learn more!
+The first thing is usually a row of **headers**, which are short descriptions of different variables. Each header is separated by a comma. In this example, there are 3 variables: participant, stimulus and reaction time. Each subsequent line is a row of values separated by commas. Looking at this, we can guess that participant 1 reacted very quickly to a violent stimulus, maybe the image of bloody knife. The next line suggests that participant 2 reacted more slowly to a neutral stimulus, perhaps the image of a computer. However, I am just guessing. Whoever made the CSV file should provide additional information to explain how these data were collected and what the different variables mean. This additional information is usually available in another file, like a website or PDF document for example. For our labs, I will describe each data file as much as is necessary for you to understand the required analyses. I will also provide links to additional information for those who are curious to learn more!
 
 If you open up the above CSV file in a spreadsheet application like Excel, you might get something like this:
 
@@ -56,13 +56,15 @@ Notice that data in a CSV file are **tabular**:
   - in our example, 3 values for each person
 - variable names should be informative
 
+Jamovi has its own spreadsheet, as well as all the other stuff associated with statistical analysis software. So we'll be doing all our work within jamovi.
+
 <!-- 3. Gapminder data from the gapminder project (copied from [this source](https://github.com/jennybc/gapminder)) can be downloaded in .csv format here: [gapminder data](/psy-466/data/gapminder.csv) -->
 
 ## jamovi
 
-### Download the lab templates
+### ~~Download the lab templates~~
 
-You will be completing each lab by writing your code and notes in an R Markdown document.
+~~You will be completing each lab by writing your code and notes in an R Markdown document.~~
 
 ### Get some data
 Please download the employment and facebook data and save them somewhere on your computer. Preferably, these data will be in the same folder that you will save work for this lab.
@@ -82,6 +84,9 @@ How many people are in this sample? And what are the different employment status
 
 We could simply look through the raw data. But counting can take a lot of time, and we would probably make mistakes. So we want the computer to do this stuff for us.
 
+### Main options in jamovi
+![Some text associated with image](/psy-466/assets/jamovi-main-bar.png).
+
 #### Now many people in this sample?
 
 ***Analyses >> Exploration >> Descriptives***
@@ -94,8 +99,6 @@ Notice that there are some other things listed in our table that do not have val
 
 ##### Export APA table into Word
 Are you doing your senior project now, or will be doing it in the near future? Chances are you'll be including a table in your manuscript that is formatted according to APA guidelines. Well, we can just copy the table from jamovi into a Word document. Do this now! Notice that the copy of your table is not an image, but an actual table that you can edit!
-
-**Copy table to Word**
 
 #### What are the different employment statuses?
 
