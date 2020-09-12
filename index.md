@@ -7,9 +7,11 @@ description: PSY-466 at Zayed University
 This course has a heavy focus on hands-on activities, done on most weeks. All of this will be done using free software called jamovi (like SPSS), which has been used for published and peer-reviewed research.
 
 **When is my next lab and how can I start?**
+
 Find the current week on Weekly Outline and check if there is a lab listed under Activity. If the lab is available, there should be a link. Click on that link to begin. Labs are generally on the 2nd day of the week, and we will have a normal class over Zoom where I make myself available to anyone who might have questions. If the lab is available before class time, feel free to begin the lab on your own!
 
 **Reading**
+
 The only textbook is an online textbook listed under **Textbooks and Learning Materials**, called **Answering Questions with Data**. It is free.
 
 Links to readings under **Weekly Outline**.
