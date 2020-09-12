@@ -12,11 +12,22 @@ When we measure things, we get lots of numbers. Too many. Sometimes so many your
 
 Our general goals for this first lab are to get your feet wet, so to speak. We’ll do these things:
 
-1. Load in some data to [jamovi](https://www.jamovi.org/)
-2. Talk a little bit about how the data is structured
-3. Make graphs of the data so we can look at it and make sense of it.
+- Load in some data to [jamovi](https://www.jamovi.org/)
+- Talk a little bit about how the data is structured
+- Make graphs of the data so we can look at it and make sense of it.
 
-Visualization is so important that we will continue to make graphs in the next lab.
+Visualization is so important that we will continue to make graphs in subsequent labs.
+
+The rest of this lab is divided into 3 main parts:
+1. Set up
+  - Describes the data we'll be looking at
+  - Explains what a CSV file is
+2. Jamovi tutorial
+  - This part is long
+  - We'll go over this together
+  - But I wrote it so that anyone can work on their own
+3. Marked exercises
+  - What you submit to get a grade
 
 ## Set up
 
@@ -61,10 +72,6 @@ Jamovi has its own spreadsheet, as well as all the other stuff associated with s
 <!-- 3. Gapminder data from the gapminder project (copied from [this source](https://github.com/jennybc/gapminder)) can be downloaded in .csv format here: [gapminder data](/psy-466/data/gapminder.csv) -->
 
 ## Tutorial on jamovi, data cleaning and visualization
-
-### ~~Download the lab templates~~
-
-~~You will be completing each lab by writing your code and notes in an R Markdown document.~~
 
 ### Get some data
 Please download the employment and facebook data and save them somewhere on your computer. Preferably, these data will be in the same folder that you will save work for this lab.
