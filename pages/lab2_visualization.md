@@ -257,9 +257,12 @@ Let's refer to this graph as **company-by-type**.
 
 ## Marked exercises (5 points total)
 5 questions, 1 point each.
+
 Question 1 requires you to upload a jamovi file.
+
 Write your answers for questions 2 to 5 in a single text document (like Word) and upload that.
-Now upload your jamovi file and text (Word) document to:
+
+Upload both your jamovi file and text (Word) document to:
 ```
 Instructor's Assessments > Lab 2
 ```
