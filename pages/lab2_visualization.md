@@ -1,4 +1,4 @@
-# Lab 1: Graphing Data I
+# Lab 2: Graphing Data
 
 >The commonality between science and art is in trying to see profoundly - to develop strategies of seeing and showing.
 —Edward Tufte
