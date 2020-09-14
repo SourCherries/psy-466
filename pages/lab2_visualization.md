@@ -140,7 +140,12 @@ Using a similar procedure as the one described for tables, you can copy this gra
 #### A similar graph using a different module
 I chose **jamovi** instead of a similar application called **JASP** because it offers more options for visualization. Let's explore some options in this lab.
 
-Hopefully, you've installed the **Flexplot** module already. Once you have, then just follow the procedure shown in this animation to make our alternate graph:
+~~Hopefully, you've installed the **Flexplot** module already~~.
+
+Install the Flexplot module by doing the following:
+![install flexplot module](/psy-466/assets/install-flexplot.gif)
+
+Once you have installed Flexplot, then just follow the procedure shown in this animation to make our alternate graph:
 
 ![Loading our farm data](/psy-466/assets/V3-counts-flex-strange-employment.gif)
 
