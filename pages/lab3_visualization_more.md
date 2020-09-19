@@ -73,16 +73,18 @@ As you can see, Canada and France are very similar and both of them have much hi
 
 ## Marked exercises (5 points total)
 
-The first 3 questions are worth 1 point each
+The first 3 questions are worth 1 point each, and the last question is worth 2 points.
+
+Save a separate jamovi file for each of the first 3 questions, and a Word file for the last question. In total, 4 files to upload.
 
 ### Question 1 (1 point - Pass/Fail)
-Make a graph plotting Life Expectancy by year for the five continents, using the ```continent``` factor.
+Make a graph plotting Life Expectancy by year for the five continents, using the ```continent``` factor. Save your jamovi file as ```question_1``` and upload to Blackboard.
 
 ### Question 2 (1 point - Pass/Fail)
-Make a graph plotting GDP per capita by year for Lebanon, Kuwait, and Saudi Arabia. Use the ```gdpPercap``` column for the GDP per capita data
+Make a graph plotting GDP per capita by year for Lebanon, Kuwait, and Saudi Arabia. Use the ```gdpPercap``` column for the GDP per capita data.  Save your jamovi file as ```question_2``` and upload to Blackboard.
 
 ### Question 3 (1 point - Pass/Fail)
-Make a new graph plotting anything you are interested in using the gapminder dataset. It just needs to be a plot that we have not given an example for.
+Make a new graph plotting anything you are interested in using the gapminder dataset. It just needs to be a plot that we have not given an example for.  Save your jamovi file as ```question_3``` and upload to Blackboard.
 
 ### Question 4 (2 points total - graded by rubric below)
 The answers to each of these parts are worth .25 points each, for a total of 2 points:
@@ -102,6 +104,8 @@ The answers to each of these parts are worth .25 points each, for a total of 2 p
 1. What are some uses for histograms, why would you want to look at a histogram of some numbers that you collected?
 
 1. Imagine you had two histograms, one was very wide and spread out, the other was very narrow with a very tall peak. Which histogram would you expect to contain more consistent numbers (numbers that are close to each other), explain why.
+
+Save your answers to question 4 as a Word document named ```question_4``` and upload to Blackboard.
 
 #### Rubric for Question 4
 
