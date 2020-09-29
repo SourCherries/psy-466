@@ -5,7 +5,7 @@ This lab is a little different from the previous labs. In previous labs, we had 
 ## Set up
 
 ### Sources of data for this lab
-1. The net worth of 10,000 individuals from a city in the US: [wealth-in-my-city.csv](/psy-466/data/wealth-in-my-city.csv). The data are fake; I generated them from computer code. However, these data reflect typical distributions of net worth found in the US. Each value is a person's net worth. Net worth refers to total wealth and includes income and property owned.
+1. The net worth of 10,000 individuals from a city in the US: [wealth-in-my-city.csv](/psy-466/data/wealth-in-my-city.csv). The data are fake; I generated them from computer code. However, these data reflect typical distributions of net worth found in the US. Net worth refers to total wealth and includes income and property owned.
 1. The heights of 70 individuals: [height.csv](/psy-466/data/height.csv). These data are also fake.
 
 
