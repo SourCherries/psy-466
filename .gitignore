@@ -3,4 +3,11 @@ Gemfile.lock
 _layouts/old_default.html
 data/.Rapp.history
 .DS_Store
-.DS_Store
+assets/histogram-flexplot.mov
+assets/net-worth-histogram.png
+assets/scatter-plot-by-year-and-country.mov
+assets/scatter-plot-life-by-year.mov
+assets/set-variable-to-continuous.mov
+pages/lab1_literature_search.pdf
+pages/lab2_visualization_answers.md
+pages/lab4_central_tendency_answers.md
