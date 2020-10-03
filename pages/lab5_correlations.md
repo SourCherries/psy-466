@@ -43,5 +43,48 @@ See for yourself. Start over again with a [new Jamovi session](#cleanup). But no
 
 What if you already have data open because you opened up a data file? [Generating random data](#random-data) will now work. Your new variable will have as many rows as the existing data!
 
+## Tutorial on correlations
+
+### Calculate correlation
+Calculating the correlation between 2 variables is easy. Let's create 2 new variables called ```X``` and ```Y```. If you forget how to do that then you can go back to [this section](#want-10).
+
+Type in these 9 values for X:
+```
+1, 3, 2, 5, 4, 6, 5, 8, 9
+```
+and enter in these 9 values for Y:
+```
+6, 5, 8, 7, 9, 7, 8, 10, 13
+```
+Make sure that you set the variable type as **Continuous**.
+
+Now do this ```Analyses > Regression > Correlation Matrix``` and move both ```X``` and ```Y``` from the box on the left to the box on the right.
+
+Make sure that ```Pearson``` is checked under ```Correlation Coefficients```.
+
+You will get a table that looks like this:
+
+The correlation coefficient between ```X``` and ```Y``` is 0.76539.
+
+I hate all these digits. So let's **round this value to the 2nd decimal place** and write 0.77.
+
+### Display a scatter plot
+Let's plot the data in a scatter plot: ```Analyses > Flexplot > Flexplot```
+
+Under ```Graphic Options ```, uncheck ```Confidence bands (for scatterplots)```.
+
+For ```Fitted line (for scatterplots)```, select ```Regression``` instead of ```Loess```.
+
+For ```Transparency of dots (%)```, enter in 100.
+
+The resulting scatter plot should look like this:
+
+![](/psy-466/assets/scatter-x-y.png)
+
+### Chance correlations
+
+### World Happiness Report
+
+### Chance correlations with a large sample
 
 Later on in the text I refer to [Simulations](#simulate).
