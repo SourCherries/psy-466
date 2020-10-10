@@ -3,7 +3,7 @@
 ## Set up
 
 ### Worksheet
-All of your answers to the graded questions will be put into this worksheet [lab-5-your-name-goes-here.docx](/psy-466/data/lab-5-your-name-goes-here.docx). Please download this worksheet and update the file name with your name.
+All of your answers to the graded questions will be put into this worksheet [lab-5-your-name-goes-here.docx](/psy-466/assets/lab-5-your-name-goes-here.docx). Please download this worksheet and update the file name with your name.
 
 During this tutorial, I will let you know when you should answer a question and include that answer in your worksheet. When you are done, you can upload your worksheet to Black Board.
 
