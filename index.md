@@ -36,8 +36,8 @@ Link to lab under Activity.
 |4| 9/13 | 9/17 | ►Data visualization. ► Read [2.1](https://crumplab.github.io/statistics/DescribingData.html#this-is-what-too-many-numbers-looks-like) ► Read [2.2](https://crumplab.github.io/statistics/DescribingData.html#look-at-the-data)| ►[Lab 2: Graphing](pages/lab2_visualization.html). ►Labs 1 and 2 due 09/21. | ►[2.3](https://crumplab.github.io/statistics/DescribingData.html#important-ideas-distribution-central-tendency-and-variance), ►[2.4](https://crumplab.github.io/statistics/DescribingData.html#measures-of-central-tendency-sameness)|
 |5| 9/20 | 9/24 | More visualization and central tendency. | Lecture/slides. ►[Lab 3: More graphing](pages/lab3_visualization_more.html) |
 |6| 9/27 | 10/01 | Review of Labs 2 and 3. | [Lab 4: Central Tendency](pages/lab4_central_tendency.html) |
-|7| 10/04 | 10/08 | Correlation. | Lecture/slides. Lab 5: Correlation (website TBA)|
-|8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue lab 5: Correlation (website TBA) |
+|7| 10/04 | 10/08 | Correlation. | Lecture/slides. [Lab 5: Correlation](pages/lab5_correlations.html)|
+|8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
 |9| 10/18 | 10/22 | Statistical inference. | Lecture/slides. Lab 6: Inference (website TBA). Labs 3 to 6 due 10/24 |
 |10| 10/25 | 10/29 | Science writing and APA format. | Lectures/slides. Unmarked Lab: Students identify critical components in published psychology papers, with a focus on clarity of data visualization. |
 |11| 11/01 | 11/05 | One-sample t-tests. | Lecture/slides. Lab 7: t-tests 1 (website TBA) |
