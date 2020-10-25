@@ -38,8 +38,8 @@ Link to lab under Activity.
 |6| 9/27 | 10/01 | Review of Labs 2 and 3. | [Lab 4: Central Tendency](pages/lab4_central_tendency.html) |
 |7| 10/04 | 10/08 | Correlation. | Lecture/slides. [Lab 5: Correlation](pages/lab5_correlations.html)|
 |8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
-|9| 10/18 | 10/22 | Statistical inference. | Lecture/slides. Lab 6: Inference (website TBA). Labs 3 to 6 due 10/24 |
-|10| 10/25 | 10/29 | Science writing and APA format. | Lectures/slides. Unmarked Lab: Students identify critical components in published psychology papers, with a focus on clarity of data visualization. |
+|9| 10/18 | 10/22 | Statistical inference: Sampling | Lecture/slides. |
+|10| 10/25 | 10/29 | Statistical inference: Sampling and probability | [Lab 6: Sampling](pages/lab6_sampling.html) |
 |11| 11/01 | 11/05 | One-sample t-tests. | Lecture/slides. Lab 7: t-tests 1 (website TBA) |
 |12| 11/08 | 11/12 | Paired-sample t-tests, and independent t-tests. | Lecture/slides. Lab 8: t-tests 2 (website TBA) |
 |13| 11/15 | 11/19 | One-way ANOVA. | Lecture/slides. Lab 9: One-way ANOVA (website TBA) |
