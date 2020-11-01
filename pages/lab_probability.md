@@ -143,12 +143,17 @@ Let us do this! The probability of getting 10.5 or higher is:
 
 That seems low. Maybe increased test duration did increase the mean score?
 
+## And now for a brief summary
+That was a lot of words. And perhaps the exercises seemed strange.
+
+Fortunately, we are now ready for a brief summary.
+
+And we will start using the official language of statistics.
+
+[Click here for a short presentation](probability-1.pdf)
+
 ## But never have the sampling distribution!
 That's right. But we do have the Central Limit Theorem.
-
-That is enough for today.
-
-But how about a preview of next class?
 
 If we examine the histogram for **N.1000** we can see that the sample means are normally distributed. That makes sense. 1000 is a pretty large sample size.
 
