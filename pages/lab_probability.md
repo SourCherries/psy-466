@@ -152,13 +152,54 @@ And we will start using the official language of statistics.
 
 [Click here for a short presentation](probability-1.pdf)
 
-## But never have the sampling distribution!
+## But never have the sample (null) distribution!
 That's right. But we do have the Central Limit Theorem.
 
-If we examine the histogram for **N.1000** we can see that the sample means are normally distributed. That makes sense. 1000 is a pretty large sample size.
+If we examine the histogram for **N.1000** we can see that the sample  means, assuming the null hypothesis, are normally distributed. That makes sense. 1000 is a pretty large sample size. The Central Limit Theorem says that the sampling distribution should be normally distributed for large sample sizes.
 
 If **N.1000** follows a normal distribution then we can fully describe it with only 2 parameters:
 - the population mean
   - we assume is 10
 - the standard error of the mean
   - take the standard deviation of the **N.1000**
+
+Now we can calculate the p-value exactly
+
+### Exact calculation of p-value
+Install the **distrACTION** module in Jamovi.
+
+Once installed, click on the icon for **distrACTION**, and choose the option for **Normal Distribution**.
+
+**Calculate the p-value for our example of student test-scores.**
+
+- **Parameters** should correspond to the **null distribution**.
+- Choose the option for **Compute probability**
+- Enter in a value for **x1**
+- Choose the appropriate option
+  - P(X <= x1)
+  - P(X >= x1)
+  - P(x1 <= X <= x2)
+
+**Now you can also answer the question again: What happens to the p-value if we had used a sample size of 100 instead of 1000?**
+
+### But how did usually get the standard error of the mean?
+When we estimated the p-value, we calculated the standard error of the mean by taking the standard deviation of the **N.1000**. We never actually have the null distribution. What do we normally do?
+
+The standard error of the mean equals:
+- the population standard deviation divided by the square-root of N
+
+We have N but we do not have the population standard deviation.
+
+Depending on what we test statistic we are measuring, we can estimate the population standard deviation using the data itself!
+
+In our example, one-sample t-test, our estimate of the population standard deviation is based on the standard deviation of the sample.
+
+That's a topic for the next class: t-tests
+
+You now have enough knowledge to make sense of the main results of most statistical analyses.
+
+Key terms:
+- **hypothesis** and **null hypothesis**
+- **null distribution**
+- **test statistic**
+- **p-value**
