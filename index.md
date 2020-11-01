@@ -40,8 +40,8 @@ Link to lab under Activity.
 |8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
 |9| 10/18 | 10/22 | Statistical inference: Sampling | Lecture/slides. |
 |10| 10/25 | 10/29 | Statistical inference: Sampling and probability | [Lab 6: Sampling](pages/lab6_sampling.html) |
-|11| 11/01 | 11/05 | One-sample t-tests. | Lecture/slides. Lab 7: t-tests 1 (website TBA) |
-|12| 11/08 | 11/12 | Paired-sample t-tests, and independent t-tests. | Lecture/slides. Lab 8: t-tests 2 (website TBA) |
+|11| 11/01 | 11/05 | Statistical inference: p-values. Discussion of Mini Research Paper. | [Unmarked Lab: Probability](pages/lab_probability.html). Unmarked Lab: Surveys (TBA) |
+|12| 11/08 | 11/12 | t-tests. | Lecture/slides. Lab 7 and 8: t-tests (website TBA) |
 |13| 11/15 | 11/19 | One-way ANOVA. | Lecture/slides. Lab 9: One-way ANOVA (website TBA) |
 |14| 11/22 | 11/26 | Repeated measures ANOVA. | Lecture/slides. Lab 10: Repeated measures ANOVA (website TBA). Labs 7 to 10 due 11/28.|
 |15| 11/29 | 12/03 | Additional guidance with Mini Research Paper. | Individual discussions about Mini Research Paper. |
