@@ -1,4 +1,5 @@
 # Overview of Labs 7 and 8 (t-tests)
+
 | lab | test | purpose | design |
 | :--- | :--- | :--- | :--- |
 | 7a | one-sample t-test | Compare sample mean to a hypothetical population mean | One group |
