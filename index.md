@@ -40,12 +40,12 @@ Link to lab under Activity.
 |8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
 |9| 10/18 | 10/22 | Statistical inference: Sampling | Lecture/slides. |
 |10| 10/25 | 10/29 | Statistical inference: Sampling and probability | [Lab 6: Sampling](pages/lab6_sampling.html) |
-|11| 11/01 | 11/05 | Statistical inference: p-values. Discussion of Mini Research Paper. | [Unmarked Lab: Probability](pages/lab_probability.html). Unmarked Lab: Surveys (TBA) |
-|12| 11/08 | 11/12 | t-tests. | Lecture/slides. Lab 7 and 8: t-tests (website TBA) |
-|13| 11/15 | 11/19 | One-way ANOVA. | Lecture/slides. Lab 9: One-way ANOVA (website TBA) |
-|14| 11/22 | 11/26 | Repeated measures ANOVA. | Lecture/slides. Lab 10: Repeated measures ANOVA (website TBA). Labs 7 to 10 due 11/28.|
-|15| 11/29 | 12/03 | Additional guidance with Mini Research Paper. | Individual discussions about Mini Research Paper. |
-|16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Mini Research Paper due 12/10. |
+|11| 11/01 | 11/05 | Statistical inference: p-values. | [Unmarked Lab: Probability](pages/lab_probability.html). Unmarked Lab: Surveys (TBA) |
+|12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 7a: One-sample t-test](pages/lab7a_ttests.html) |
+|13| 11/15 | 11/19 | Paired-sample and independent t-tests. | Labs 7b and 8 (TBA) |
+|14| 11/22 | 11/26 | One-way ANOVA. | Lab 9 (TBA). |
+|15| 11/29 | 12/03 | Repeated measures ANOVA. | Lab 10 (TBA) |
+|16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Research Question Paper due 12/10. |
 
 # Textbooks and Learning Materials
 - Crump, M. J. C., Navarro, D., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52, https://crumplab.github.io/statistics/
@@ -56,8 +56,8 @@ Link to lab under Activity.
 | :--- | :--- | :--- | :--- | :--- |
 | assignment | Lab assignments: Foundations. | 10 | Labs 1 to 2 | 09/19/2020 |
 | assignment | Lab assignments: Exploratory. | 20 | Labs 3 to 6 | 10/24/2020 |
-| research paper |Lab reports: Experimental.| 20 | Labs 7 to 10, including brief reports in APA format. | 11/28/2020 |
-| research paper | Mini research paper | 25 | Report an analysis of your *adopted* dataset. Methods will be guessed but there are good guesses and bad guesses. Introduction will be shortened but will definitely describe possible results and/or hypotheses. All in APA format with appropriate figures and tables. | 12/10/2020 |
+| research paper |Lab reports: Experimental.| 20 | Labs 7 to 10, including brief descriptions of results in APA format. | 11/28/2020 |
+| research paper | Research Question Paper | 25 | Propose a novel research question that builds on the results of a published study. | 12/10/2020 |
 | final exam | final exam | 25 | The final exam will cover all material taught throughout the term. | TBA |
 
 # Textbooks and Learning Materials
