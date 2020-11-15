@@ -42,7 +42,7 @@ Link to lab under Activity.
 |10| 10/25 | 10/29 | Statistical inference: Sampling and probability | [Lab 6: Sampling](pages/lab6_sampling.html) |
 |11| 11/01 | 11/05 | Statistical inference: p-values. | [Unmarked Lab: Probability](pages/lab_probability.html). Unmarked Lab: Surveys (TBA) |
 |12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 7a: One-sample t-test](pages/lab7a_ttests.html) |
-|13| 11/15 | 11/19 | Paired-sample and independent t-tests. | Labs 7b and 8 (TBA) |
+|13| 11/15 | 11/19 | Paired-sample and independent t-tests. | [Lab 7b: Paired-sample t-test](pages/lab7b_ttests.html) and Lab 8 (TBA) |
 |14| 11/22 | 11/26 | One-way ANOVA. | Lab 9 (TBA). |
 |15| 11/29 | 12/03 | Repeated measures ANOVA. | Lab 10 (TBA) |
 |16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Research Question Paper due 12/10. |
