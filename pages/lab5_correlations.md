@@ -31,9 +31,11 @@ You will get a table that looks like this:
 
 ![](/psy-466/assets/lab-5-table-1-corr-matrix.png)
 
-The correlation coefficient between ```X``` and ```Y``` is 0.76539.
+The correlation coefficient between ```X``` and ```Y``` is 0.765.
 
-I hate all these digits. So let's **round this value to the 2nd decimal place** and write 0.77.
+I hate all these digits. So let's **round this value to the 2nd decimal place** and write 0.77. Also that is how you should write this number according to APA format.
+
+The 95-percent confidence interval for our correlation ranges from 0.206 to 0.948. From our lecture **week-9-a-correlations-CI-and-reporting**, you will know to write this as ```95% CI [.21, .95]```.
 
 ### Display a scatter plot {#single-scatter}
 Let's plot the data in a scatter plot: ```Analyses > Flexplot > Flexplot```
