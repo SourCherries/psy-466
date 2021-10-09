@@ -10,7 +10,7 @@ For the graded section of this lab, we will use [lab-5-data.csv](/psy-466/data/l
 ## Tutorial on correlations
 
 ### Calculate correlation {#get-coefficient}
-Calculating the correlation between 2 variables is easy. Let's create 2 new variables called ```X``` and ```Y```. If you forget how to do that then you can go back to [this section](#want-10).
+Calculating the correlation between 2 variables is easy. Let's create 2 new variables called ```X``` and ```Y```.
 
 Type in these 9 values for X:
 ```
