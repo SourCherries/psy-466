@@ -2,11 +2,6 @@
 
 ## Set up
 
-### Worksheet
-All of your answers to the graded questions will be put into this worksheet [lab-5-your-name-goes-here.docx](/psy-466/assets/lab-5-your-name-goes-here.docx). Please download this worksheet and update the file name with your name.
-
-During this tutorial, I will let you know when you should answer a question and include that answer in your worksheet. When you are done, you can upload your worksheet to Black Board.
-
 ### Sources of data for this lab
 We use data from the [World Happiness Report](http://worldhappiness.report/). A .csv of the data can be found here: [WHR2018.csv](/psy-466/data/WHR2018.csv)
 
@@ -30,7 +25,11 @@ Now do this ```Analyses > Regression > Correlation Matrix``` and move both ```X`
 
 Make sure that ```Pearson``` is checked under ```Correlation Coefficients```.
 
+Make sure that ```Confidence intervals``` is checked under ```Additional Options```.
+
 You will get a table that looks like this:
+
+![](/psy-466/assets/lab-5-table-1-corr-matrix.png)
 
 The correlation coefficient between ```X``` and ```Y``` is 0.76539.
 
@@ -47,7 +46,7 @@ For ```Transparency of dots (%)```, enter in 100.
 
 The resulting scatter plot should look like this:
 
-![](/psy-466/assets/scatter-x-y.png)
+![](/psy-466/assets/lab-5-scatter-1-XY.png)
 
 OK, we are almost ready to turn to some real data and ask if there are correlations between interesting variables…You will find that there are some… But before we do that, we do one more thing. This will help you become a little bit more skeptical of these “correlations”.
 
