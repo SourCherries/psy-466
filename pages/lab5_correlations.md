@@ -3,8 +3,9 @@
 ## Set up
 
 ### Sources of data for this lab
-We use data from the [World Happiness Report](http://worldhappiness.report/). A .csv of the data can be found here: [WHR2018.csv](/psy-466/data/WHR2018.csv)
+For the tutorial section of this lab, we will use data from the [World Happiness Report](http://worldhappiness.report/). A .csv of the data can be found here: [WHR2018.csv](/psy-466/data/WHR2018.csv)
 
+For the graded section of this lab, we will use [lab-5-data.csv](/psy-466/data/lab-5-data.csv)
 
 ## Tutorial on correlations
 
@@ -80,4 +81,33 @@ And, after renaming the variable names, here is the scatter plot:
 
 Bam, there we have it. As positive affect goes up, negative affect goes down. A negative correlation.
 
-## Graded exercise
+## Marked exercises
+Please download the data [lab-5-data.csv](/psy-466/data/lab-5-data.csv), and open in Jamovi. These data are the results of a study done with 100 adult participants. Each person filled out a survey (GPTS) and also rated photos of people they are familiar with (friends, family and colleagues).
+
+GPTS refers to the Green et al., Paranoid Thoughts Scale. Scores on each scale can range from 16 to 80. Higher scores indicate greater levels of paranoid thinking.
+
+MTR refers to Mean Trust Rating. Participants rated the trustworthiness of many photos. Each photo was rated on a scale from 1 to 7 (least to most trustworthy). MTR is the mean trust-rating of a participant, across all the photos they rated.
+
+***Put all of your answers to these questions in a single Word document and upload to Blackboard***
+
+### Question 1 (20 points)
+Write a reasonable hypothesis about the relation between MTR and GPTS, and briefly explain your hypothesis.
+
+### Question 2 (10 points)
+To test your hypothesis, you will measure a Pearson r correlation. Should you use a one-tailed or a two-tailed test of statistical significance?
+
+### Question 3 (40 points)
+Please review the lecture **week-9-a-correlations-CI-and-reporting**. Analyze the data in Jamovi and briefly report your results using APA format, as described in lecture **week-9-a-correlations-CI-and-reporting**.
+
+### Question 4 (20 points)
+Consider these two statements:
+>GPTS influences MTR
+
+>MTR influences GPTS
+
+Which of these two statements makes more sense and why?
+
+### Question 5 (10 points)
+Include a scatterplot showing the relation between MTR and GPTS. The variable on the X axis should be the one that we consider to be the ```cause``` and the variable on the Y axis should be the one that we consider to be the resulting ```effect```. We never know for sure unless we do an experiment. But it helps to interpret a scatterplot we always put the ```more likely cause``` on the X axis.
+
+***Put all of your answers to these questions in a single Word document and upload to Blackboard***
