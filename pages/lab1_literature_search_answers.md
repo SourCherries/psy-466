@@ -39,8 +39,8 @@ PsychInfo is more reliable. If you find references in Google Scholar, you should
 ## Question 3
 Which of the 2 articles discussed in the previous question has more citations? Please write down their citation numbers here.
 
-> Happiness article has 1955 citations.
-> Aging article has 32 references
+> Happiness article has 2159 citations.
+> Aging article has 40 references
 
 The paper with the higher citation count is probably an important one. Not only does it have a high citation count, but it is also mentioned in an article written for a general audience. I'm just using a rule-of-thumb here; does not always work. But as it turns out, this article is very important.
 
@@ -76,17 +76,22 @@ I get 4 results. Please write the references for your 4 results in APA format.
 
 > Luan, M., Fu, L., & Li, H. (2018). Do maximizers maximize for others? Self-other decision-making differences in maximizing and satisficing. Personality and Individual Differences, 121, 52-56.
 
+> Winet, Y. K., Tu, Y., Choshen-Hillel, S., & Fishbach, A. (2020). Social exploration: When people deviate from options explored by others. Journal of Personality and Social Psychology.
+
 > So, C. (2019). Strive for what others want–the role of mindfulness, social pressure, time pressure and time perspectives on designers' happiness. Journal of Design Research, 17(2-4), 163-191.
 
 
 ## Question 7
 Judging from the titles alone, do any of them have to do with matchmaking?
-> The answer seems to be No.
+> Maybe the 3rd and 4th.
 
 ## Question 8
 Which of these 4 results is most relevant to our research question?
 
+
 > Luan, M., Fu, L., & Li, H. (2018). Do maximizers maximize for others? Self-other decision-making differences in maximizing and satisficing. Personality and Individual Differences, 121, 52-56.
+
+> Winet, Y. K., Tu, Y., Choshen-Hillel, S., & Fishbach, A. (2020). Social exploration: When people deviate from options explored by others. Journal of Personality and Social Psychology.
 
 Download and quickly read through it. Does this paper have to do with matchmaking?
 
