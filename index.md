@@ -40,7 +40,7 @@ Link to lab under Activity.
 |8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
 |9| 10/18 | 10/22 | Statistical inference: Sampling | Lecture/slides. |
 |10| 10/25 | 10/29 | Statistical inference: Sampling and probability |  |
-|11| 11/01 | 11/05 | Overview of statistical tests: Focus on study design | [Lab 6: One-sample t-test](pages/lab6_ttests.html) and [Lab 7: Paired-sample t-test](pages/lab7b_ttests.html) both due November 10 |
+|11| 11/01 | 11/05 | Overview of statistical tests: Focus on study design | [Lab 6: One-sample t-test](pages/lab6_ttests.html) and [Lab 7: Paired-sample t-test](pages/lab7_ttests.html) both due November 10 |
 |12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 8: Independent samples t-test](pages/lab8_ttests.html) due November 17 |
 |13| 11/15 | 11/19 | Paired-sample and independent t-tests. |   |
 |14| 11/22 | 11/26 | One-way ANOVA. | Lab 9 (TBA). |

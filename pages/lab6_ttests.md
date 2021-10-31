@@ -1,9 +1,9 @@
-# Overview of Labs 7 and 8 (t-tests)
+# Overview of Labs 6, 7 and 8 (t-tests)
 
 | lab | test | purpose | design |
 | :--- | :--- | :--- | :--- |
-| 7a | one-sample t-test | Compare sample mean to a hypothetical population mean | One group |
-| 7b | paired-sample t-test | Compare two sample means in a within-subjects design | Same subjects are measured across both levels of the experimental manipulation (independent variable) |
+| **6** | one-sample t-test | Compare sample mean to a hypothetical population mean | One group |
+| 7 | paired-sample t-test | Compare two sample means in a within-subjects design | Same subjects are measured across both levels of the experimental manipulation (independent variable) |
 | 8 | independent-sample t-test | Compare two sample means in a between-subjects design | Different subjects are measured across both levels of the experimental manipulation (independent variable) |
 
 For each of these labs, we will
