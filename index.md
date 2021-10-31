@@ -6,8 +6,6 @@ description: PSY-466 at Zayed University
 ---
 This course has a heavy focus on hands-on activities, done on most weeks. All of this will be done using free software called jamovi (like SPSS), which has been used for published and peer-reviewed research.
 
-209 represent.
-
 **When is my next lab and how can I start?**
 
 Find the current week on Weekly Outline and check if there is a lab listed under Activity. If the lab is available, there should be a link. Click on that link to begin. Labs are generally on the 2nd day of the week, and we will have a normal class over Zoom where I make myself available to anyone who might have questions. If the lab is available before class time, feel free to begin the lab on your own!
@@ -41,10 +39,10 @@ Link to lab under Activity.
 |7| 10/04 | 10/08 | Correlation. | Lecture/slides. [Lab 5: Correlation](pages/lab5_correlations.html)|
 |8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
 |9| 10/18 | 10/22 | Statistical inference: Sampling | Lecture/slides. |
-|10| 10/25 | 10/29 | Statistical inference: Sampling and probability | [Lab 6: Sampling](pages/lab6_sampling.html) |
-|11| 11/01 | 11/05 | Statistical inference: p-values. | [Unmarked Lab: Probability](pages/lab_probability.html). Unmarked Lab: Surveys (TBA) |
-|12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 7a: One-sample t-test](pages/lab7a_ttests.html) |
-|13| 11/15 | 11/19 | Paired-sample and independent t-tests. | [Lab 7b: Paired-sample t-test](pages/lab7b_ttests.html) and [Lab 8: Independent samples t-test](pages/lab8_ttests.html) |
+|10| 10/25 | 10/29 | Statistical inference: Sampling and probability |  |
+|11| 11/01 | 11/05 | Overview of statistical tests: Focus on study design | [Lab 6: One-sample t-test](pages/lab6_ttests.html) and [Lab 7: Paired-sample t-test](pages/lab7b_ttests.html) both due November 10 |
+|12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 8: Independent samples t-test](pages/lab8_ttests.html) due November 17 |
+|13| 11/15 | 11/19 | Paired-sample and independent t-tests. |   |
 |14| 11/22 | 11/26 | One-way ANOVA. | Lab 9 (TBA). |
 |15| 11/29 | 12/03 | Repeated measures ANOVA. | Lab 10 (TBA) |
 |16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Research Question Paper due 12/10. |
