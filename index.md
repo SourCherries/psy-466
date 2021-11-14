@@ -43,7 +43,7 @@ Link to lab under Activity.
 |11| 11/01 | 11/05 | Overview of statistical tests: Focus on study design | [Lab 6: One-sample t-test](pages/lab6_ttests.html) and [Lab 7: Paired-sample t-test](pages/lab7_ttests.html) both due November 10 |
 |12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 8: Independent samples t-test](pages/lab8_ttests.html) due November 17 |
 |13| 11/15 | 11/19 | Paired-sample and independent t-tests. |   |
-|14| 11/22 | 11/26 | One-way ANOVA. | Lab 9 (TBA). |
+|14| 11/22 | 11/26 | One-way ANOVA. |  [Lab 9: One-way ANOVA](pages/lab9_anova_one.html) |
 |15| 11/29 | 12/03 | Repeated measures ANOVA. | Lab 10 (TBA) |
 |16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Research Question Paper due 12/10. |
 

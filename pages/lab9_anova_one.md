@@ -1,20 +1,28 @@
-Statistical inference test for multiple (2 or more) groups.
+# One-way between subject ANOVA
 
-| person | IV | DV |
+# Tutorial
+Please review the slides **week-13-a-lecture-anova-independent-abridged.key** and the recording of that lecture.
+
+# The question
+You measure the test scores of students in 3 different schools. Here are your data:
+
+| Person | School | Score |
 | :-- | :-- | :-- |
-|1 | A | 20 |
-|2 | A | 11 |
-|3 | A |  2 |
-|4 | B |  6 |
-|5 | B |  2 |
-|6 | B |  7 |
-|7 | C |  2 |
-|8 | C | 11 |
-|9 | C |  2 |
+|1 | A | 3 |
+|2 | A | 8 |
+|3 | A | 2 |
+|4 | B | 12 |
+|5 | B | 11 |
+|6 | B | 16 |
+|7 | C | 42 |
+|8 | C | 21 |
+|9 | C | 32 |
 
 
-# What to write
->>
-There was no significant difference between groups in DV, F(2, 6) = 0.939, p = 0.442.
+1. **[1 mark]** Make an appropriate graph of these data, showing the mean +/- 1 standard error for each school. Export your graph as a PDF and upload it to Blackboard.
 
-Stop there.
+2. Write up your results in APA format. Upload Word document to Blackboard.
+
+    - **[1 mark]** Description of ANOVA test.
+    - **[1 mark]** Results of ANOVA.
+    - **[2 marks]** Results of post-hoc comparisons.
