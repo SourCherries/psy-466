@@ -8,7 +8,7 @@ This course has a heavy focus on hands-on activities, done on most weeks. All of
 
 **When is my next lab and how can I start?**
 
-Find the current week on Weekly Outline and check if there is a lab listed under Activity. If the lab is available, there should be a link. Click on that link to begin. Labs are generally on the 2nd day of the week, and we will have a normal class over Zoom where I make myself available to anyone who might have questions. If the lab is available before class time, feel free to begin the lab on your own!
+Find the current week on Weekly Outline and check if there is a lab listed under Activity. If the lab is available, there should be a link. Click on that link to begin. Labs are generally on the 2nd day of the week, and we will have a normal class over Toom where I make myself available to anyone who might have questions. If the lab is available before class time, feel free to begin the lab on your own!
 
 **Reading**
 
