@@ -18,8 +18,8 @@ Links to readings under **Weekly Outline**.
 
 If **1.7** is listed as reading that needs to be done, then you should read all of **1.7**. For example, there might be **1.7.2** and **1.7.1.5**. You should read those and anything else within **1.7**.
 
-## Office Hours
-1:00 to 2:30 pm Sunday, Monday, Wednesday and Thursday; 10:00 to 11:00 am Thursday
+<!-- ## Office Hours
+1:00 to 2:30 pm Sunday, Monday, Wednesday and Thursday; 10:00 to 11:00 am Thursday -->
 
 ## Instructor Office Location
 FF1-1-013 and online
@@ -53,32 +53,32 @@ Link to lab under Activity.
 - Crump, M. J. C., Navarro, D., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52, https://crumplab.github.io/statistics/
 - Writing guide authored by a good writer: https://psych.nyu.edu/pelli/style.html
 
-# Assessment Methods
+<!-- # Assessment Methods
 | category | assessment type | percentage | assessment description | due date |
 | :--- | :--- | :--- | :--- | :--- |
 | assignment | Lab assignments: Foundations. | 10 | Labs 1 to 2 | 09/19/2020 |
 | assignment | Lab assignments: Exploratory. | 20 | Labs 3 to 6 | 10/24/2020 |
 | research paper |Lab reports: Experimental.| 20 | Labs 7 to 10, including brief descriptions of results in APA format. | 11/28/2020 |
 | research paper | Research Question Paper | 25 | Propose a novel research question that builds on the results of a published study. | 12/10/2020 |
-| final exam | final exam | 25 | The final exam will cover all material taught throughout the term. | TBA |
+| final exam | final exam | 25 | The final exam will cover all material taught throughout the term. | TBA | -->
 
-# Textbooks and Learning Materials
+<!-- # Textbooks and Learning Materials
 - Crump, M. J. C., Navarro, D., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. This free textbook is on [this website ](https://crumplab.github.io/statistics/).
-- [Writing guide](https://psych.nyu.edu/pelli/style.html) authored by a good writer.
+- [Writing guide](https://psych.nyu.edu/pelli/style.html) authored by a good writer. -->
 
 
 # Assessment Methods
 
 | category | assessment type | percentage | assessment description | due date |
 | :--- | :--- | :--- | :--- | :--- |
-| assignment | Lab assignments: Foundations. | 10 | Labs 1 to 2 | 09-19-2020 |
-| assignment | Lab assignments: Exploratory. | 20 | Labs 3 to 6 | 10-24-2020 |
-| research paper |Lab reports: Experimental.| 20 | Labs 7 to 10, including brief reports in APA format. | 11-28-2020 |
-| research paper | Mini research paper | 25 | Report an analysis of your *adopted* dataset. Methods will be guessed but there are good guesses and bad guesses. Introduction will be shortened but will definitely describe possible results or hypotheses. All in APA format with appropriate figures and tables. | 12-10-2020 |
-| final exam | final exam | 25 | The final exam will cover all material taught throughout the term. | TBA |
+| quiz | quiz | 10 | quiz on research design. can include multiple-choice, true/false, short answer | 02-01-2022 |
+| assignment | Lab assignments: Foundations. | 20 | Labs 1 to 4 | 02-22-2022 |
+| assignment | Lab assignments: Inferential. | 20 | Labs 5 to 8 | 04-26-2022 |
+| assignment | research proposal | 20 | Introduction section of an empirical research paper, along with planned analyses and predicted results. All in APA format with appropriate figures and tables. Two submissions of the same assignment. You get detailed feedback for the first submission (due 03/08/2022). Both must be submitted on time. Your grade is based on the best submission. | 05-05-2022 |
+| final exam | final exam | 20 | The final exam will cover all material taught throughout the term. Includes a mix of multiple choice, multiple answer and short answer. Focus will be on choosing appropriate statistical analyses based on data or research questions. | TBA |
 
 
-## Instructor Office Location
+<!-- ## Instructor Office Location
 FF1-1-013 and online (see Office Hours below).
 
 ## Office Hours
@@ -90,7 +90,8 @@ Here are the dates, times and Zoom Links:
 - Meeting ID: 669 634 2330
 
 10:00 to 11:00 am Thursday go to [this Zoom meeting](https://zoom.us/j/93971015253?pwd=ZTVsZHpZaVdzTXAzNm1Ma0QyRTlnUT09)
-- Meeting ID: 939 7101 5253
+- Meeting ID: 939 7101 5253 -->
+
 >>>>>>> 54120937b9f1d741ceaec9dafec0404e820ad73b
 
 <!-- ►[1.7 Psychological measurement](https://crumplab.github.io/statistics/why-statistics.html#introduction-to-psychological-measurement), [1.8 Scales of measurement](https://crumplab.github.io/statistics/why-statistics.html#scales-of-measurement), [1.10 The role of variables](https://crumplab.github.io/statistics/why-statistics.html#the-role-of-variables-predictors-and-outcomes), [1.11 Experimental & non-experimental research](https://crumplab.github.io/statistics/why-statistics.html#experimental-and-non-experimental-research) -->
