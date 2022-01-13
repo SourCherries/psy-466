@@ -30,22 +30,24 @@ Link to lab under Activity.
 
 | week | from | to | topic | activity | do before next week |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-|1| 8/23 | 8/27 | ►Review syllabus. ►Introduction to the course. | ►Lecture/slides. ►Jamovi install and general tutorial. ►Students will be directed to the Student Code of Academic Conduct Procedures (ACA-ADM-08) and we will discuss the importance academic integrity. | ►[1.7 Psychological measurement](https://crumplab.github.io/statistics/why-statistics.html#introduction-to-psychological-measurement), [1.8 Scales of measurement](https://crumplab.github.io/statistics/why-statistics.html#scales-of-measurement), [1.10 The role of variables](https://crumplab.github.io/statistics/why-statistics.html#the-role-of-variables-predictors-and-outcomes), [1.11 Experimental & non-experimental research](https://crumplab.github.io/statistics/why-statistics.html#experimental-and-non-experimental-research) ►[Jamovi install](https://www.jamovi.org/user-manual.html#installation), and [getting started](https://www.jamovi.org/user-manual.html#getting-started).|
-|2| 8/30 | 9/03 | ►Review of basic concepts like variable types. ►Research designs. | ►Lecture/slides. ►Students read the abstract of a published study and infer the research design that was used, and the types of variables involved. |
-|3| 9/06 | 9/10 | ►Literature searches and science journalism. | ►Lectures/slides.  ►[Lab 1: Literature searches](pages/lab1_literature_search.html) |
-|4| 9/13 | 9/17 | ►Data visualization. ► Read [2.1](https://crumplab.github.io/statistics/DescribingData.html#this-is-what-too-many-numbers-looks-like) ► Read [2.2](https://crumplab.github.io/statistics/DescribingData.html#look-at-the-data)| ►[Lab 2: Graphing](pages/lab2_visualization.html). ►Labs 1 and 2 due 09/21. | ►[2.3](https://crumplab.github.io/statistics/DescribingData.html#important-ideas-distribution-central-tendency-and-variance), ►[2.4](https://crumplab.github.io/statistics/DescribingData.html#measures-of-central-tendency-sameness)|
-|5| 9/20 | 9/24 | More visualization and central tendency. | Lecture/slides. ►[Lab 3: More graphing](pages/lab3_visualization_more.html) |
-|6| 9/27 | 10/01 | Review of Labs 2 and 3. | [Lab 4: Central Tendency](pages/lab4_central_tendency.html) |
-|7| 10/04 | 10/08 | Correlation. | Lecture/slides. [Lab 5: Correlation](pages/lab5_correlations.html)|
-|8| 10/11 | 10/15 | Regression. | Lecture/slides. Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
-|9| 10/18 | 10/22 | Statistical inference: Sampling | Lecture/slides. |
-|10| 10/25 | 10/29 | Statistical inference: Sampling and probability |  |
-|11| 11/01 | 11/05 | Overview of statistical tests: Focus on study design | [Lab 6: One-sample t-test](pages/lab6_ttests.html) and [Lab 7: Paired-sample t-test](pages/lab7_ttests.html) both due November 10 |
-|12| 11/08 | 11/12 | Discussion of Research Question Paper. One-sample t-tests. | Lecture/slides. [Lab 8: Independent samples t-test](pages/lab8_ttests.html) due November 17 |
-|13| 11/15 | 11/19 | Paired-sample and independent t-tests. |   |
-|14| 11/22 | 11/26 | One-way ANOVA. |  [Lab 9: One-way ANOVA](pages/lab9_anova_one.html) |
-|15| 11/29 | 12/03 | Repeated measures ANOVA. | Lab 10 (TBA) |
-|16| 12/06 | 12/10 | Course review | Review of all content, preparing the final exam. Research Question Paper due 12/10. |
+|0| 1/10 | 1/14 | ►Review syllabus. ►Introduction to the course. | ►Lecture/slides. ►Jamovi install and general tutorial. ►Students will be directed to the Student Code of Academic Conduct Procedures (ACA-ADM-08) and we will discuss the importance academic integrity. | ►[1.7 Psychological measurement](https://crumplab.github.io/statistics/why-statistics.html#introduction-to-psychological-measurement), [1.8 Scales of measurement](https://crumplab.github.io/statistics/why-statistics.html#scales-of-measurement), [1.10 The role of variables](https://crumplab.github.io/statistics/why-statistics.html#the-role-of-variables-predictors-and-outcomes), [1.11 Experimental & non-experimental research](https://crumplab.github.io/statistics/why-statistics.html#experimental-and-non-experimental-research) ►[Jamovi install](https://www.jamovi.org/user-manual.html#installation), and [getting started](https://www.jamovi.org/user-manual.html#getting-started).|
+|1| 1/17 | 1/21 | ►Review of basic concepts. ►Instroduction to research proposal. | ►Lecture/slides. ►Ungraded quiz. ►Jamovi install (https://www.jamovi.org)|
+|2| 1/24 | 1/28 | ►Literature searches. | ►Lectures/slides.  ►[Lab 1: Literature searches](pages/lab1_literature_search.html) |
+|3| 1/31 | 2/4 | ►Introduction to distributions and data visualization. ►Lab 1 due Tuesday ► Quiz on Tuesday ► Read [2.1](https://crumplab.github.io/statistics/DescribingData.html#this-is-what-too-many-numbers-looks-like) ► Read [2.2](https://crumplab.github.io/statistics/DescribingData.html#look-at-the-data)| ►[Lab 2: Graphing](pages/lab2_visualization.html). ► | ►[2.3](https://crumplab.github.io/statistics/DescribingData.html#important-ideas-distribution-central-tendency-and-variance), ►[2.4](https://crumplab.github.io/statistics/DescribingData.html#measures-of-central-tendency-sameness)|
+|4| 2/7 | 2/11 | ►More visualization and central tendency. ►Lab 2 due Tuesday | Lecture/slides. ►[Lab 3: More graphing](pages/lab3_visualization_more.html) |
+|5| 2/14 | 2/18 | ►Variance. ►Lab 3 due Tuesday | ►Lectures/slides. ►[Lab 4: Central Tendency](pages/lab4_central_tendency.html) |
+|6| 2/21 | 2/25 | ►Introduction to correlations. ►Lab 4 due Tuesday | ►Lecture/slides. ►[Lab 5: Correlation](pages/lab5_correlations.html)|
+|7| 2/28 | 3/4 | ►Correlations and p-values. ►Lab 5 due Tuesday | ►Lecture/slides. ►Continue [Lab 5: Correlation](pages/lab5_correlations.html) |
+|8| 3/7 | 3/11 | ►More correlations and p-values.  ►Research proposal submission 1 due Tuesday | ►Lecture/slides. ►Answering questions about p-values. |
+|9| 3/14 | 3/18 | ►Scoring of personality/attitude scales. | ►Lectures/slides ►Data analysis. |
+|10| 3/21 | 3/25 | ►One-on-one feedback on research proposal submission 1 | ►One-on-one feedback on research proposal submission 1 |
+|--| 3/28 | 4/1  | spring break | spring break | work on research proposal |
+|--| 4/4  | 4/8  | spring break | spring break | work on research proposal |
+|11| 4/11 | 4/15 | ►Overview of statistical tests: Focus on study design. One-sample and paired-sample t-tests. | ►Lecture/slides. ►[Lab 6: One-sample t-test](pages/lab6_ttests.html) ►[Lab 7: Paired-sample t-test](pages/lab7_ttests.html) |
+|12| 4/18 | 4/22 | ►Independent samples t-test and ANOVA. ►Labs 6 and 7 due Tuesday | ►[Lab 8: Independent samples t-test](pages/lab8_ttests.html)  |
+|13| 4/25 | 4/29 | ►Common mistakes in the interpretation of statistics. ►Lab 8 due Tuesday |  ►Lectures/slides. ►Unmarked data analysis activity examining common pitfalls in interpretation of results. |
+|14| 5/2  | 5/6  | ►Exam review ►Research proposals due Thursday | ►Exam review ►Research proposals due Thursday |
+|15| 5/9  | 5/13 | ►Exam review | ►Exam review |
 
 # Textbooks and Learning Materials
 - Crump, M. J. C., Navarro, D., & Suzuki, J. (2019, June 5). Answering Questions with Data (Textbook): Introductory Statistics for Psychology Students. https://doi.org/10.17605/OSF.IO/JZE52, https://crumplab.github.io/statistics/
