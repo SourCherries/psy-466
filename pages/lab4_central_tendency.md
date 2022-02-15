@@ -51,7 +51,7 @@ Let's look at the histogram for net worth by setting ```networth``` as the ```ou
 
 <!-- ![net worth histogram](../assets/net-worth-histogram.pdf) -->
 
-![net worth histogram](/psy-466/assets/net-worth-histogram.png)
+<!-- ![net worth histogram](/psy-466/assets/net-worth-histogram.png) -->
 
 ![net worth histogram](/psy-466/assets/net-worth-histogram.jpg)
 
@@ -73,7 +73,8 @@ That is a very small percentage right! We can more clearly see the shape of the 
 
 Using **Filters**, exclude individuals earning more than 250,000. Now take another look at the histogram that you made earlier. It should now be updated to reflect your filtering:
 
-![net worth histogram, zoomed in](/psy-466/assets/net-worth-histogram-zoom-in.png)
+<!-- ![net worth histogram, zoomed in](/psy-466/assets/net-worth-histogram-zoom-in.png) -->
+![net worth histogram, zoomed in](/psy-466/assets/net-worth-histogram-zoom-in.jpg)
 
 Zooming in like this can be a useful trick to improve visualization. If you share this type of graph, be careful to report which values were excluded to make the graph.
 
@@ -119,7 +120,7 @@ Does it make sense to have a single measure of central tendency for this variabl
 
 What might be responsible for the 2 peaks we see in this histogram? -->
 
-#### The mode can be misleading ... for continuous variables
+<!-- #### The mode can be misleading ... for continuous variables
 Let's look at the histogram of heights using Flexplot. It should look like this:
 
 ![heights histogram](/psy-466/assets/heights-histogram.pdf)
@@ -145,7 +146,7 @@ How many values are **exactly equal** to 191, 192 ... 199?
 I hope you can now see why the mode of a continuous variable is not always within the tallest bar of a histogram!
 
 
- -->
+ <!-- --> 
 
 <!-- ## Marked exercises (5 points total)
 
