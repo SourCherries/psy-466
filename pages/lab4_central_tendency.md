@@ -5,8 +5,8 @@ This lab is a little different from the previous labs. In previous labs, we had 
 ## Set up
 
 ### Sources of data for this lab
-1. The net worth of 10,000 individuals from a city in the US: [wealth-in-my-city.csv](/psy-466/data/wealth-in-my-city.csv). Let's just pretend this is your city. The data are fake; I generated them from computer code. However, these data reflect typical distributions of net worth found in the US. Net worth refers to total wealth and includes income and property owned.
-1. The heights of 70 individuals: [height.csv](/psy-466/data/height.csv). These data are also fake.
+The net worth of 10,000 individuals from a city in the US: [wealth-in-my-city.csv](/psy-466/data/wealth-in-my-city.csv). Let's just pretend this is your city. The data are fake; I generated them from computer code. However, these data reflect typical distributions of net worth found in the US. Net worth refers to total wealth and includes income and property owned.
+<!-- 1. The heights of 70 individuals: [height.csv](/psy-466/data/height.csv). These data are also fake. -->
 
 ### Scientific notation
 Sometimes large numbers are difficult to write. For example, 200 billion is 200000000000. That's a lot of digits that take up a lot of space. So computers often report large numbers using **scientific notation**. Instead of 200000000000, your computer will report 2e11. Here are two tables that help you to understand this notation.
@@ -49,9 +49,9 @@ Analyses > Flexplot > Flexplot
 ```
 Let's look at the histogram for net worth by setting ```networth``` as the ```outcome variable```:
 
-![net worth histogram](../assets/net-worth-histogram.pdf)
+<!-- ![net worth histogram](../assets/net-worth-histogram.pdf) -->
 
-![net worth histogram](/psy-466/assets/net-worth-histogram.pdf)
+![net worth histogram](/psy-466/assets/net-worth-histogram.png)
 
 As you can see, this distribution of net worth is **right-skewed**. That is typical of variables like net worth and income. Even though these data are made up, the shape and central tendency of this distribution reflect typical data you might find in the US.
 
@@ -71,7 +71,7 @@ That is a very small percentage right! We can more clearly see the shape of the 
 
 Using **Filters**, exclude individuals earning more than 250,000. Now take another look at the histogram that you made earlier. It should now be updated to reflect your filtering:
 
-![net worth histogram, zoomed in](/psy-466/assets/net-worth-histogram-zoom-in.pdf)
+![net worth histogram, zoomed in](/psy-466/assets/net-worth-histogram-zoom-in.png)
 
 Zooming in like this can be a useful trick to improve visualization. If you share this type of graph, be careful to report which values were excluded to make the graph.
 
@@ -101,7 +101,7 @@ Remove any filtering that you did previously. In other words, erase anything you
 
 Recall our discussion of **zooming in**. If you look at the histogram for net worth now, you can see that the addition of Jeff Bezos has made it very hard to see how net worth is distributed among most people. All we see is that everyone has much less wealth than Jeff! So in some cases, zooming in is necessary to see that net worth is truly right-skewed.
 
-### Distribution of heights
+<!-- ### Distribution of heights
 This section examines [height.csv](/psy-466/data/height.csv). So please load this data into Jamovi.
 
 <!-- #### Even the median can fail
@@ -143,7 +143,7 @@ How many values are **exactly equal** to 191, 192 ... 199?
 I hope you can now see why the mode of a continuous variable is not always within the tallest bar of a histogram!
 
 
-
+ -->
 
 <!-- ## Marked exercises (5 points total)
 
