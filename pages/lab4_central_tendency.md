@@ -53,6 +53,8 @@ Let's look at the histogram for net worth by setting ```networth``` as the ```ou
 
 ![net worth histogram](/psy-466/assets/net-worth-histogram.png)
 
+![net worth histogram](/psy-466/assets/net-worth-histogram.jpg)
+
 As you can see, this distribution of net worth is **right-skewed**. That is typical of variables like net worth and income. Even though these data are made up, the shape and central tendency of this distribution reflect typical data you might find in the US.
 
 It looks like very few people have a net worth above 250,000. What is the exact percentage of individuals who have a net worth above 250,000? We will calculate this with a series steps.
